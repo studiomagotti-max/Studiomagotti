@@ -1,0 +1,729 @@
+documento  
+Modulistica proposta dal CNDCEC per l’adempimento degli obblighi ai fini di prevenzione e contrasto dell’uso del sistema economico e finanziario a scopo di riciclaggio e finanziamento del terrorismo, nonché del finanziamento della proliferazione delle armi di distruzione di massa, ai sensi del d.lgs. 231/2007 e delle Regole Tecniche emanate il 16 gennaio 2025   
+
+marzo 2026  
+   
+Area di delega CNDCEC  
+ Antiriciclaggio - Anticorruzione  
+ CONSIGLIERA DELEGATA  
+ Gabriella Viggiano  
+   
+  
+Commissione di studio cndcec  
+ Procedure e adempimenti a supporto dei Commercialisti  
+ PRESIDENTE  
+ Marco Abbondanza  
+   
+
+Composizione del Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili
+
+Presidente
+
+Elbano de Nuccio
+
+Vice Presidente
+
+Antonio Repaci
+
+Consigliere Segretario
+
+Giovanna Greco
+
+Consigliere Tesoriere
+
+David Moro
+
+Consiglieri
+
+|  |  |
+| :-: | :-: |
+| Gianluca AncaraniMarina AndreattaCristina Bertinelli Aldo Campo Rosa D’Angiolella Michele de TavonattiFabrizio Escheri Gian Luca GallettiCristina Marrone  | Maurizio Masini Pasquale Mazza Eliana Quintili Salvatore RegalbutoMaria Lucetta RussottoPierpaolo Sanna Liliana SmargiassiGiuseppe VenneriGabriella Viggiano |
+
+Collegio dei revisori
+
+Presidente
+
+Rosanna Marotta
+
+Componenti
+
+Maura Rosano
+
+Sergio Ceccotti
+
+Commissione di studio “Procedure e adempimenti a supporto dei Commercialisti”
+
+Consigliera delegata CNDCEC
+
+Gabriella Viggiano
+
+Presidente
+
+Marco Abbondanza
+
+Segretario
+
+Andrea Coloni
+
+Componenti
+
+Andrea Bignami
+
+Raffaele D’Arienzo
+
+Mattia Iotti
+
+Thomas Kraicsovits
+
+Giuseppe Mancini
+
+Antonella Pasini
+
+Antonella Rapi
+
+Staff tecnico
+
+Susanna Ciriello – Ufficio Controllo Interno CNDCEC
+
+Annalisa De Vivo – Ufficio Monitoraggio Legislativo CNDCEC
+
+  
+
+AV.0 - AUTOVALUTAZIONE DEL RISCHIO
+
+(Artt. 15, 16 e 16-ter d.lgs. 231/2007- Regola Tecnica n. 1)
+
+DESCRIZIONE SINTETICA DELLO STUDIO PROFESSIONALE
+
+(indicare tipologia giuridica, localizzazione della/e sede/i, eventuali specializzazioni, tipologia di clientela, principali prestazioni professionali svolte)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+I - Misurazione livello di rischio inerente
+
+| Fattori di rischio | Criteri di valutazione | Indici di rischiosità (da 1 a 4) |
+| :-: | :-: | :-: |
+| Tipologia clientela | La valutazione è effettuata tenendo complessivamente conto della percentuale dei clienti assoggettati ad adeguata verifica rafforzata:Non significativa (fino al 10%): 1 Poco significativa (superiore al 10% e fino al 25%): 2Abbastanza significativa (superiore al 25% e fino al 40%): 3Molto significativa (superiore al 40%): 4Ovvero eventuale altra valutazione effettuata\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| Area geografica di operatività | La valutazione è effettuata tenendo conto complessivamente della percentuale delle prestazioni professionali che coinvolgono [Paesi terzi ad alto rischio di riciclaggio/finanziamento del terrorismo](https://ec.europa.eu/transparency/documents-register/detail?ref=C\(2025\)3815&lang=en) individuati dal Regolamento UE di riferimento:Non significativa (fino al 10%): 1 Poco significativa (superiore al 10% e fino al 25%): 2Abbastanza significativa (superiore al 25% e fino al 40%): 3Molto significativa (superiore al 40%): 4Ovvero eventuale altra valutazione effettuata\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| Canali distributivi | Fattore riferito alla modalità di esplicazione della prestazione professionale, anche tramite collaborazioni esterne, corrispondenze, canali di pagamento.Tale fattore è difficilmente associabile all’attività professionale; per tale motivo, la valutazione del rischio allo stesso correlata assume carattere residuale.Eventuali osservazioni\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| Servizi professionali offerti | La valutazione è effettuata tenendo conto complessivamente della incidenza percentuale sul totale delle prestazioni rese di quelle qualificabili come a rischio inerente “non significativo” o “poco significativo”:superiore all’80%: 1superiore al 60% e fino all’80%: 2superiore al 45% e fino al 60%: 3fino al 45%: 4Ovvero eventuale altra valutazione effettuata\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| Somma dei valori ottenuti (a)  |  |  |
+| Media aritmetica dei valori ottenuti (a) : 4 |  |  |
+| A - Rischio inerente |  |  |
+
+II - Misurazione livello di vulnerabilità
+
+| Fattori di vulnerabilità | Criteri di valutazione | Indici di rischiosità (da 1 a 4) |
+| :-: | :-: | :-: |
+| Formazione | La valutazione è effettuata tenendo conto di una rilevanza:Non significativa per presidi completi e strutturati: 1 Poco significativa per presidi ordinari: 2Abbastanza significativa per presidi lacunosi: 3Molto significativa per presidi insufficienti: 4Eventuali note\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| Organizzazione degli adempimenti di adeguata verifica della clientela | La valutazione è effettuata tenendo conto di una rilevanza:Non significativa per presidi completi e strutturati: 1 Poco significativa per presidi ordinari: 2Abbastanza significativa per presidi lacunosi: 3Molto significativa per presidi insufficienti: 4Eventuali note\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| Organizzazione degli adempimenti relativi alla conservazione dei documenti, dati e informazioni | La valutazione è effettuata tenendo conto di una rilevanza:Non significativa per presidi completi e strutturati: 1 Poco significativa per presidi ordinari: 2Abbastanza significativa per presidi lacunosi: 3Molto significativa per presidi insufficienti: 4Eventuali note\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| Organizzazione in materia di segnalazione di operazioni sospette e comunicazione delle violazioni alle norme sull’uso del contante | La valutazione è effettuata tenendo conto di una rilevanza:Non significativa per presidi completi e strutturati: 1 Poco significativa per presidi ordinari: 2Abbastanza significativa per presidi lacunosi: 3Molto significativa per presidi insufficienti: 4Eventuali note\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| Somma dei valori ottenuti (b) |  |  |
+| Media aritmetica dei valori ottenuti (b) : 4 |  |  |
+| B - Vulnerabilità |  |  |
+
+III. Determinazione del rischio residuo
+
+|  |  |
+| :-: | :-: |
+| RISCHIO INERENTE PONDERATO =(livello di rischio inerente x 0,40) | ... X 0,40 =  |
+| VULNERABILITÀ PONDERATA=(livello di vulnerabilità x 0,60) | ... X 0,60 = |
+| VALORE RISCHIO RESIDUO |  |
+
+Tenendo conto della seguente griglia di valori ponderati
+
+al valore di rischio residuo determinato, pari a \_\_\_\_\_\_\_\_\_\_, corrisponde un grado di rischio residuo (non/poco/abbastanza/molto significativo) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Data \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Il Professionista \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+  
+
+AV.1 - DETERMINAZIONE DEL RISCHIO EFFETTIVO E DELLA TIPOLOGIA DI ADEGUATA VERIFICA (Art. 17, co. 3, d.lgs. 231/2007 – Regola Tecnica n. 2)
+
+CLIENTE \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+PRESTAZIONE/I PROFESSIONALE/I\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+I. Misurazione del rischio inerente (da 1 a 4)
+
+Valore assegnato al rischio inerente: \_\_\_\_\_\_\_\_
+
+II. Misurazione del rischio specifico
+
+|  |  |
+| :-: | :-: |
+| Aspetti connessi al cliente | Livello di rischio specifico(da 1 a 4) |
+| A.1 - Natura giuridica  |  |
+| La valutazione è effettuata considerando:la congruità della natura giuridica prescelta in relazione all’attività svolta e alle sue dimensioni;l'articolazione giuridica, la complessità della struttura tale da rendere più difficoltosa l’identificazione del titolare effettivo;la partecipazione di persone politicamente esposte (cliente, esecutore, titolare effettivo) con necessità di eseguire l’adeguata verifica in modalità rafforzatal'esistenza di processi penali o indagini in corso con possibili connessioni al terrorismo, al riciclaggio o autoriciclaggio, al finanziamento della proliferazione delle armi di distruzione di massala presenza di trust, intestazioni fiduciarie, associazioni, fondazioni, organizzazioni non lucrative, ONGaltri eventuali elementi/osservazioni: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| A.2 - Prevalente attività svolta  |  |
+| La valutazione è effettuata considerando:le attività esposte al rischio di infiltrazioni criminali e terroristichela coerenza dell’attività svolta in concreto con la struttura organizzativa e dimensionale ovvero con le attività dichiaratealtri eventuali elementi/osservazioni: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| A.3 - Comportamento tenuto al momento del conferimento dell’incarico  |  |
+| La valutazione è effettuata considerando:il comportamento del cliente ai fini dello svolgimento dell’adeguata verificala presenza ingerente di soggetti terzi con ruolo non definitoaltri eventuali elementi/osservazioni: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| A.4 - Area geografica di residenza del cliente e della controparte |  |
+| La valutazione è effettuata considerando:residenza/localizzazione in Provincia italiana con flussi anomali di contante (cfr. [Analisi nazionale del rischio di riciclaggio e di finanziamento del terrorismo](https://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/prevenzione_reati_finanziari/prevenzione_reati_finanziari/Analisi_riciclaggio-denaro_finanziamento-terrorismo_2024.pdf)) residenza/localizzazione in [Paesi terzi ad alto rischio](https://ec.europa.eu/commission/presscorner/detail/it/ip_25_1378) individuati Regolamento UE di riferimentoaltri eventuali elementi/osservazioni: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| TOTALE A |  |
+
+|  |  |
+| :-: | :-: |
+| Aspetti connessi all’operazione e/o prestazione professionaleNota bene: con riferimento ad alcune prestazioni professionali quali revisione legale dei conti, tenuta della contabilità, assistenza e consulenza continuativa generica in ambito contabile e fiscale, la presente tabella non deve essere compilata, attesa la tipologia dei dati richiesti nella stessa. | Livello di rischio specifico(da 1 a 4) |
+| B.1 - Tipologia  |  |
+| La valutazione è effettuata considerando se la fattispecie è riconducibile a:operazione ordinaria/straordinaria rispetto al profilo soggettivo del clienteutilizzo di schemi negoziali che possono agevolare l’opacità delle relazioni economiche e finanziarie intercorrenti tra il cliente e la controparte prestazioni professionali/operazioni connesse a settori di attività/merceologici a rischio di riciclaggio/finanziamento del terrorismo/finanziamento della proliferazione delle armi di distruzione di massa altri eventuali elementi/osservazioni: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| B.2 - Modalità di svolgimento  |  |
+| La valutazione è effettuata considerando:l’utilizzo di mezzi di pagamento non tracciati l’utilizzo di valute virtualil’utilizzo di conti non propri per trasferire/ricevere fondiil ricorso reiterato a procureil ricorso a domiciliazioni di comodoaltri eventuali elementi/osservazioni: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| B.3 - Ammontare dell’operazione |  |
+| La valutazione è effettuata considerando:la coerenza dell’ammontare dell’operazione rispetto al profilo economico e finanziario del cliente, ovvero della natura dell’operazione medesimala presenza di frazionamenti artificiosialtri eventuali elementi/osservazioni: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| B.4 - Frequenza e volume delle operazioni/durata della prestazione professionale |  |
+| La valutazione è effettuata considerando:la congruità della frequenza dell’operazione rispetto all’ordinaria attività esercitata dal clientel’operatività improvvisa e poco giustificabile rispetto all’attività normalmente svoltal’ammontare dell’operazione non giustificato rispetto all’operazione stessale operazioni di ammontare rilevante concentrate in un ristretto arco temporaleil rapporto professionale continuativo oppure occasionalealtri eventuali elementi/osservazioni: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| B.5 – Ragionevolezza |  |
+| La valutazione è effettuata considerando:la ragionevolezza dell’operazione rispetto all’attività svolta ordinariamente dal clientela ragionevolezza dell’operazione rispetto all’entità delle risorse economiche nella disponibilità del cliente la congruità dell’operazione rispetto alle finalità dichiaratealtri eventuali elementi/osservazioni: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| B.6 - Area geografica di destinazione del prodotto e l’oggetto dell’operazione, del rapporto continuativo o della prestazione professionale |  |
+| La valutazione è effettuata considerando:la destinazione in [Provincia italiana con flussi anomali di contante](https://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/prevenzione_reati_finanziari/prevenzione_reati_finanziari/Analisi_riciclaggio-denaro_finanziamento-terrorismo_2024.pdf) la destinazione in [Paesi terzi ad alto rischio di riciclaggio/finanziamento del terrorismo](https://ec.europa.eu/transparency/documents-register/detail?ref=C\(2025\)3815&lang=en) individuati dal Regolamento UE di riferimento la destinazione in [Paesi con deficienze strategiche nei sistemi AML/CFT sottoposti ad intenso monitoraggio](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2025.html) (c.d. grey list) la ragionevolezza dell’operazione rispetto all’area geografica di destinazionealtri eventuali elementi/osservazioni: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |  |
+| TOTALE B |  |
+
+Determinazione valore assegnato al rischio specifico:
+
+Totale A (...) + Totale B (...) = ... : 10 = ...
+
+Oppure (in caso di compilazione della sola tabella A)
+
+Totale A (...) : 4 = ...
+
+III. Determinazione del rischio effettivo
+
+|  |  |
+| :-: | :-: |
+| RISCHIO INERENTE PONDERATO =(valore assegnato al rischio inerente x 0,30) | ... X 0,30 =  |
+| RISCHIO SPECIFICO PONDERATO=(valore assegnato al rischio specifico x 0,70) | ... X 0,70 = |
+| VALORE RISCHIO EFFETTIVO |  |
+
+Tenendo conto della seguente griglia di valori ponderati,
+
+al valore di rischio effettivo determinato, pari a \_\_\_\_\_\_\_\_\_, corrisponde un grado di rischio effettivo (non/poco/abbastanza/molto significativo) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+IV. Determinazione della tipologia di adeguata verifica
+
+|  |  |
+| :-: | :-: |
+| Grado di rischio | Misure di adeguata verifica |
+| Non significativo | Semplificate |
+| Poco significativo | Semplificate |
+| Abbastanza significativo | Ordinarie |
+| Molto significativo | Rafforzate |
+
+Sulla base del grado di rischio effettivo (non/poco/abbastanza/molto significativo) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ e considerando la relativa tabella di raccordo, al cliente\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ va associata una ADEGUATA VERIFICA di tipo:
+
+SEMPLIFICATA
+
+ORDINARIA
+
+RAFFORZATA
+
+Data \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Il Professionista \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+  
+AV.2 - DOCUMENTO RIEPILOGATIVO DATI, INFORMAZIONI E DOCUMENTI ACQUISITI[1](#footnote1)
+
+|  |  |  |  |
+| :-: | :-: | :-: | :-: |
+| (X) | DOCUMENTAZIONE | OSSERVAZIONI | ANNOTAZIONI PROFESSIONISTA |
+| Fotocopia documento di identità o di altro documento di riconoscimento equipollente, in corso di validità, del Cliente ovvero dell’esecutore in caso di società/enti | Documento del Cliente persona fisica ovvero dell’esecutore (soggetto che agisce per conto del Cliente società/ente) |  |  |
+| Visura del Registro Imprese (certificato equivalente per società di diritto estero) oppure per i soggetti/enti che non sono tenuti all’iscrizione al Registro delle Imprese, atti costitutivi, delibere o altri documenti | Per verificare dati e informazioni riferiti alla società/ente Cliente fra cui l’esistenza dei poteri di rappresentanza del soggetto che agisce per conto della società/ente nel conferimento dell’incarico professionale |  |  |
+| Documentazione attestante codice fiscale e (eventuale) partita IVA | Ove non presenti in altri atti acquisiti dal Professionista |  |  |
+| Dichiarazione antiriciclaggio resa dal Cliente ex art. 22 d.lgs. 231/2007 | Si suggerisce l’utilizzo dell’apposito format AV.4 contenuto nella presente modulistica o altro avente contenuto analogo |  |  |
+| Scheda di determinazione del rischio effettivo ex art. 17 d.lgs. 231/2007 | Si suggerisce l’utilizzo dell’apposito format AV.1 contenuto nella presente modulistica o altro avente contenuto analogo |  |  |
+| Scheda di adeguata verifica | È possibile utilizzare il format AV.3 o altro avente contenuto informativo analogo  |  |  |
+| Altra documentazione ritenuta opportuna a seguito di valutazioni/considerazioni del Professionista (specificare): | Ogni ulteriore documento o informazione necessaria o utile per l’adeguata verifica, ovvero per altri presidi antiriciclaggio |  |  |
+
+Data \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Il Professionista \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+  
+
+AV.3 - ISTRUTTORIA CLIENTE[2](#footnote2)
+
+CLIENTE E PROFESSIONISTA INCARICATO
+
+Cliente: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Professionista/i di riferimento: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Soggetto responsabile dell’identificazione (Professionista o altro soggetto appositamente delegato): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+TIPOLOGIA ISTRUTTORIA
+
+ Nuovo Cliente
+
+ Cliente già identificato in relazione ad un precedente incarico professionale
+
+ Esecuzione degli obblighi di adeguata verifica della clientela da parte di terzi
+
+OPERAZIONE richiesta al Professionista dal Cliente:
+
+Data\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Importo\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Causale\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Mezzi di pagamento utilizzati \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Documentazione allegata \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+TIPOLOGIA DI ADEGUATA VERIFICA[3](#footnote3):
+
+ Ordinaria
+
+ Semplificata
+
+ Rafforzata
+
+DATA DI RIFERIMENTO:
+
+Data di riferimento del fascicolo \_\_\_\_\_\_\_\_\_\_\_ (identificazione e mandato, prima istituzione)
+
+Dati relativi al Cliente/esecutore
+
+Con riferimento alla persona fisica cliente o al legale rappresentante /delegato/procuratore/esecutore della società/ente che conferisce il mandato professionale:
+
+Cognome e nome \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Codice fiscale \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(Altri dati identificativi come da copia del documento di identificazione allegato)
+
+Carica/poteri rappresentanza \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Poteri rappresentanza verificati tramite\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Persona politicamente esposta (PPE): SI  NO 
+
+Con riferimento alla società/ente:
+
+Denominazione/ragione sociale \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Codice fiscale \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Sede legale, attività e altri dati come da documenti allegati (i.e. visura, attribuzione codice fiscale, ecc.).
+
+Dati relativi ai titolari effettivi
+
+Cognome e nome \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Codice fiscale \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+PPE: SI  NO 
+
+Cognome e nome \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Codice fiscale \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+PPE: SI  NO 
+
+Cognome e nome \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Codice fiscale \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+PPE: SI  NO 
+
+Altri dati identificativi come da documentazione allegata.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Dati acquisiti tramite:
+
+ dichiarazione antiriciclaggio resa dal Cliente ex art. 22 d.lgs. 231/2007;
+
+ estratti da pubblici registri;
+
+ estratti da elenchi, atti, documenti conoscibili da chiunque;
+
+ attestazione di altro professionista ex art. 26 d.lgs. 231/2007;
+
+ altro \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Scopo, natura e altri dati della prestazione professionale
+
+Indicazione dello scopo e natura con sintetica descrizione del rapporto continuativo / prestazione professionale richiesta, nonché delle relazioni intercorrenti tra cliente ed esecutore e tra cliente e titolare effettivo e dell’attività lavorativa svolta.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Vedi anche:
+
+ dichiarazione antiriciclaggio resa dal Cliente ex art. 22 d.lgs. 231/2007;
+
+ mandato professionale (ove formalizzato);
+
+ altro \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Controllo costante
+
+Risultato sintetico della valutazione del “rischio effettivo” relativo al cliente e alla prestazione richiesta risultante da apposita scheda di valutazione (cfr. AV 1)
+
+(non/poco/abbastanza/molto significativo) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Tipologia di adeguata verifica (semplificata/ordinaria/rafforzata) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Frequenza del controllo costante (36-24-12-6 mesi) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Successivo aggiornamento del fascicolo previsto per \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Eventuali note \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Data \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Il Professionista \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+
+AV.4 - DICHIARAZIONE DEL CLIENTE ex art. 22, co.1, d.lgs. 231/2007
+
+In ottemperanza alle disposizioni dell’art. 22 del d.lgs. 231/2007 (obblighi del cliente in materia di prevenzione e contrasto al riciclaggio/finanziamento del terrorismo/finanziamento della proliferazione delle armi di distruzione di massa), come da Nota 1 dell’Allegato alla presente Dichiarazione, consapevole delle sanzioni penali previste dall’art. 55, co. 3, del sopraindicato decreto (come da Nota 2 dell’Allegato), si forniscono le sottostanti informazioni, assumendo tutte le responsabilità di natura civile, amministrativa e penale per dichiarazioni non veritiere.
+
+Il sottoscritto\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ codice fiscale\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+nato a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (\_\_\_\_\_) il \_\_\_\_\_\_\_\_\_\_ nazionalità \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+residente in \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (\_\_\_\_\_), alla via/piazza\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ n. \_\_\_\_\_
+
+domicilio (se diverso dalla residenza) in \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (\_\_\_\_\_), alla via/piazza\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ n.\_\_\_\_\_\_
+
+DICHIARA
+
+che, ai sensi dell’art.18, co. 1, lett. c), d.lgs. 231/2007, lo scopo e la natura della prestazione professionale richiesta sono
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_;
+
+o di non costituire persona politicamente esposta (PPE), ai sensi dell’art. 1, co. 2, lett. dd), del d.lgs.231/2007;
+
+oppure
+
+o di costituire persona politicamente esposta (PPE), ai sensi dell’art. 1, co. 2, lett. dd), del d.lgs. 231/2007 (indicare la carica/incarico della PPE e, ove ricorrente, il legame con il titolare della carica/incarico e le sue generalità - vedi Nota 2 dell’Allegato alla presente Dichiarazione)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_;
+
+(ove applicabile) che le relazioni intercorrenti tra il Cliente (persona fisica o società/ente cliente del professionista) e l’esecutore (art.18, co. 1, lett. c), d.lgs. 231/2007) sono: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_;
+
+ai fini dell’identificazione del Titolare Effettivo di cui all’art. 1, co. 2, lett. pp) e ai criteri per la determinazione della titolarità effettiva di clienti diversi dalle persone fisiche di cui all’art. 20 del d.lgs. 231/2007 (vedi Nota 4 dell’Allegato alla presente Dichiarazione), consapevole delle sanzioni penali previste dall’art. 55 del d.lgs. 231/2007 nel caso di falsa indicazione delle generalità del soggetto per conto del quale eventualmente viene eseguita l’operazione, (scegliere una delle quattro opzioni successive):
+
+o (opzione 1) di agire in proprio e richiedere la prestazione per sé, attestando l’inesistenza di un diverso titolare effettivo così come previsto e definito dal d.lgs. 231/2007;
+
+o (opzione 2) di agire in qualità di esecutore per conto delle seguenti persone fisiche:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(persona fisica che agisce per conto di altre persone fisiche: indicare le informazioni necessarie a consentire l’identificazione della/e persone fisiche titolare/i effettivi e fornire indicazioni/documentazione che comprovino l’esistenza del potere di agire per loro conto)
+
+o (opzione 3) di agire per conto della società/ente\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, con sede legale in \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ , via \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, iscritta al Registro delle imprese di \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, numero di iscrizione e codice fiscale \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, in qualità di legale rappresentante, munito dei necessari poteri, e che il/i titolare/i effettivi è/sono:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(indicare le informazioni necessarie a consentire l’identificazione della/e persone fisiche titolare/i effettivi):
+
+o (opzione 4)[4](#footnote4) di agire per conto della società/ente \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, con sede legale in \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, via \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, iscritta al Registro delle imprese di \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, numero di iscrizione e codice fiscale \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, in qualità di legale rappresentante, munito dei necessari poteri e attesta che il titolare effettivo coincide con la persona fisica o le persone fisiche titolare/i - conformemente agli assetti organizzativi e/o statutari di riferimento - di poteri di rappresentanza legale, amministrazione o direzione della società (o del cliente comunque diverso dalla persona fisica), che è/sono:
+
+(dati del/i titolar/i effettivo/i individuato/i secondo le precedenti opzioni 2, 3 o 4)
+
+•(TE 1) (cognome e nome) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, nato/a a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (\_\_\_), il \_\_\_\_\_\_\_\_\_\_\_\_\_\_, residente in \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, via \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, n. \_\_\_, codice fiscale \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_;
+
+o (TE 1) che il titolare effettivo non costituisce persona politicamente esposta, ai sensi dell’art. 1, co. 2, lett. dd), del d.lgs. 231/2007
+
+oppure
+
+o (TE 1) che il titolare effettivo costituisce persona politicamente esposta, ai sensi dell’art. 1, co. 2, lett. dd), del d.lgs. 231/2007 in quanto (indicare la carica/incarico della PPE e, ove ricorrente, il legame con il titolare della carica/incarico e le sue generalità - vedi Nota 2 dell’Allegato alla presente Dichiarazione)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_;
+
+(TE 1) che le relazioni intercorrenti tra il Cliente (persona fisica o società/ente cliente del professionista) e il titolare effettivo (art.18, co. 1, lett. c), d.lgs. 231/2007) sono: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_;
+
+(ripetere i dati per ciascuno dei titolari effettivi presenti)
+
+che la situazione economico-patrimoniale e/o la provenienza dei fondi utilizzati nell’operazione sono le seguenti:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_;
+
+che i mezzi di pagamento forniti dal Cliente al Professionista per compiere, per conto e/o in nome del medesimo Cliente, operazione/i di natura finanziaria, sono i seguenti: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (ove la prestazione professionale abbia ad oggetto una operazione, come definita dall’art. 1, co. 2, lett. t), d.lgs. 231/2007);
+
+che i fondi e le risorse economiche eventualmente utilizzati non provengono né sono destinati a un’attività criminosa o al finanziamento del terrorismo di cui all’art. 2, co. 6, del d.lgs. 231/2007 (vedi Nota 2 dell’Allegato alla presente Dichiarazione) o al finanziamento della proliferazione delle armi di distruzione di massa;
+
+di non essere destinatario di misure di congelamento di fondi e risorse economiche di cui al d.lgs. 109/2007;
+
+\- che l’attività (produzione, commercio, servizi, ecc.) e il settore merceologico principale dell’attività svolta sono:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_;
+
+\- che l’ambito territoriale in cui viene svolta prevalentemente l’attività è (ammesse più opzioni):
+
+□ Italia – Provincia \_\_\_\_\_\_\_\_\_\_\_\_
+
+□ Paese UE \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+□ Paese extra UE \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+□ Paese a rischio riciclaggio/finanziamento del terrorismo \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(altro eventualmente da specificare sull’ambito territoriale)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Dichiara espressamente
+
+di aver esaminato e compreso le definizioni di “riciclaggio”, “finanziamento al terrorismo”, “persone politicamente esposte” e di “titolare effettivo” contenute nell’Allegato alla presente dichiarazione;
+
+di essere consapevole delle sanzioni penali previste dall’art. 55, co. 3, d.lgs. 231/2007, per chi fornisce dati falsi o informazioni non veritiere;
+
+di essere stato informato della circostanza che il mancato rilascio in tutto o in parte delle informazioni di cui sopra, pregiudica la possibilità per il Professionista di dare esecuzione alla prestazione professionale richiesta;
+
+Si impegna
+
+a comunicare senza ritardo ogni eventuale integrazione o variazione dei dati sopra indicati.
+
+Il sottoscritto prende atto, infine, che i propri dati personali saranno trattati esclusivamente per le finalità previste dal d.lgs. 231/2007 in adempimento degli obblighi previsti da Leggi e Regolamenti per la protezione dei dati.
+
+Data \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Firma Cliente o Esecutore
+
+  
+
+Allegato alla Dichiarazione del Cliente
+
+(Nota 1)
+
+Per “riciclaggio” (art. 2, co. 4 e 5, d.lgs. 231/2007) si intende:
+
+a) la conversione o il trasferimento di beni, effettuati essendo a conoscenza che essi provengono da un’attività criminosa o da una partecipazione a tale attività, allo scopo di occultare o dissimulare l’origine illecita dei beni medesimi o di aiutare chiunque sia coinvolto in tale attività a sottrarsi alle conseguenze giuridiche delle proprie azioni;
+
+b) l’occultamento o la dissimulazione della reale natura, provenienza, ubicazione, disposizione, movimento, proprietà dei beni o dei diritti sugli stessi, effettuati essendo a conoscenza che tali beni provengono da un’attività criminosa o da una partecipazione a tale attività;
+
+c) l’acquisto, la detenzione o l’utilizzazione di beni essendo a conoscenza, al momento della loro ricezione, che tali beni provengono da un’attività criminosa o da una partecipazione a tale attività;
+
+d) la partecipazione ad uno degli atti di cui alle lettere a), b) e c) l’associazione per commettere tale atto, il tentativo di perpetrarlo, il fatto di aiutare, istigare o consigliare qualcuno a commetterlo o il fatto di agevolarne l’esecuzione.
+
+Il riciclaggio è considerato tale anche se le attività che hanno generato i beni da riciclare si sono svolte fuori dai confini nazionali. La conoscenza, l’intenzione o la finalità, che debbono costituire un elemento delle azioni di cui al comma 4 possono essere dedotte da circostanze di fatto obiettive.
+
+Per “finanziamento al terrorismo” si intende qualsiasi attività diretta, con ogni mezzo, alla fornitura, alla raccolta, alla provvista, all'intermediazione, al deposito, alla custodia o all'erogazione, in qualunque modo realizzate, di fondi e risorse economiche, direttamente o indirettamente, in tutto o in parte, utilizzabili per il compimento di una o più condotte, con finalità di terrorismo secondo quanto previsto dalle leggi penali ciò indipendentemente dall'effettivo utilizzo dei fondi e delle risorse economiche per la commissione delle condotte anzidette (art. 2, co. 6, d.lgs. 231/2007).
+
+Per “finanziamento dei programmi di proliferazione delle armi di distruzione di massa” si intende la fornitura o la raccolta di fondi e risorse economiche, in qualunque modo realizzata e strumentale, direttamente o indirettamente, a sostenere o favorire tutte quelle attività legate all'ideazione o alla realizzazione di programmi volti a sviluppare strumenti bellici di natura nucleare o chimica o batteriologica (art. 1, lett. e), d.lgs. 109/2007).
+
+(Nota 2)
+
+Ai sensi dell’art. 55, co. 3, del d.lgs. 231/2007 il soggetto (obbligato, ai sensi della normativa antiriciclaggio, a fornire i dati e le informazioni necessarie ai fini dell'adeguata verifica della clientela) che fornisce dati falsi o informazioni non veritiere, è punito con la reclusione da sei mesi a tre anni e con la multa da 10.000 euro a 30.000 euro, salvo che il fatto costituisca più grave reato.
+
+(Nota 3)
+
+Per “persone politicamente esposte” (art.1, co. 2, lett. dd), d.lgs. 231/2007), si intendono: le persone fisiche che occupano o hanno cessato di occupare da meno di un anno importanti cariche pubbliche, nonché i loro familiari e coloro che con i predetti soggetti intrattengono notoriamente stretti legami, come di seguito elencate:
+
+1\) sono persone fisiche che occupano o hanno occupato importanti cariche pubbliche coloro che ricoprono o hanno ricoperto la carica di:
+
+1.1 Presidente della Repubblica, Presidente del Consiglio, Ministro, Vice‐Ministro e Sottosegretario, Presidente di Regione, assessore regionale, Sindaco di capoluogo di provincia o città metropolitana, Sindaco di comune con popolazione non inferiore a 15.000 abitanti nonché cariche analoghe in Stati esteri;
+
+1.2 deputato, senatore, parlamentare europeo, consigliere regionale nonché cariche analoghe in Stati esteri;
+
+1.3 membro degli organi direttivi centrali di partiti politici;
+
+1.4 giudice della Corte Costituzionale, magistrato della Corte di Cassazione o della Corte dei conti, consigliere di Stato e altri componenti del Consiglio di Giustizia Amministrativa per la Regione siciliana nonché cariche analoghe in Stati esteri;
+
+1.5 membro degli organi direttivi delle banche centrali e delle autorità indipendenti;
+
+1.6 ambasciatore, incaricato d'affari ovvero cariche equivalenti in Stati esteri, ufficiale di grado apicale delle forze armate ovvero cariche analoghe in Stati esteri;
+
+1.7 componente degli organi di amministrazione, direzione o controllo delle imprese controllate, anche indirettamente, dallo Stato italiano o da uno Stato estero ovvero partecipate, in misura prevalente o totalitaria, dalle Regioni, da comuni capoluoghi di provincia e città metropolitane e da comuni con popolazione complessivamente non inferiore a 15.000 abitanti;
+
+1.8 direttore generale di ASL e di azienda ospedaliera, di azienda ospedaliera universitaria e degli altri enti del servizio sanitario nazionale.
+
+1.9 direttore, vicedirettore e membro dell'organo di gestione o soggetto svolgenti funzioni equivalenti in organizzazioni internazionali;
+
+2\) sono familiari di persone politicamente esposte: i genitori, il coniuge o la persona legata in unione civile o convivenza di fatto o istituti assimilabili alla persona politicamente esposta, i figli e i loro coniugi nonché le persone legate ai figli in unione civile o convivenza di fatto o istituti assimilabili;
+
+3\) sono soggetti con i quali le persone politicamente esposte intrattengono notoriamente stretti legami: 3.1 le persone fisiche che, ai sensi del presente decreto detengono, congiuntamente alla persona politicamente esposta, la titolarità effettiva di enti giuridici, trust e istituti giuridici affini ovvero che intrattengono con la persona politicamente esposta stretti rapporti d’affari; 3.2 le persone fisiche che detengono solo formalmente il controllo totalitario di un’entità notoriamente costituita, di fatto, nell'interesse e a beneficio di una persona politicamente esposta.
+
+(Nota 4) - Per “titolare effettivo” si intende la persona fisica o le persone fisiche, diverse dal cliente, nell'interesse della quale o delle quali, in ultima istanza, il rapporto continuativo è instaurato, la prestazione professionale è resa o l'operazione è eseguita (art. 1, co. 2, lett. pp), d.lgs. 231/2007).
+
+Si indicano di seguito i criteri individuati dalla norma, ai fini della individuazione del titolare effettivo:
+
+Art. 20 del d.lgs. 231/2007 (Criteri per la determinazione della titolarità effettiva di clienti diversi dalle persone fisiche).
+
+1\. Il titolare effettivo di clienti diversi dalle persone fisiche coincide con la persona fisica o le persone fisiche cui, in ultima istanza, è attribuibile la proprietà diretta o indiretta dell'ente ovvero il relativo controllo.
+
+2\. Nel caso in cui il cliente sia una società di capitali: a) costituisce indicazione di proprietà diretta la titolarità di una partecipazione superiore al 25 per cento del capitale del cliente, detenuta da una persona fisica; b) costituisce indicazione di proprietà indiretta la titolarità di una percentuale di partecipazioni superiore al 25 per cento del capitale del cliente, posseduto per il tramite di società controllate, società fiduciarie o per interposta persona.
+
+3\. Nelle ipotesi in cui l’esame dell'assetto proprietario non consenta di individuare in maniera univoca la persona fisica o le persone fisiche cui è attribuibile la proprietà diretta o indiretta dell’ente, il titolare effettivo coincide con la persona fisica o le persone fisiche cui, in ultima istanza, è attribuibile il controllo del medesimo in forza: a) del controllo della maggioranza dei voti esercitabili in assemblea ordinaria; b) del controllo di voti sufficienti per esercitare un'influenza dominante in assemblea ordinaria; c) dell'esistenza di particolari vincoli contrattuali che consentano di esercitare un’influenza dominante.
+
+4\. Nel caso in cui il cliente sia una persona giuridica privata, di cui al decreto del Presidente della Repubblica 10 febbraio 2000, n. 361, sono cumulativamente individuati, come titolari effettivi: a) i fondatori, ove in vita; b) i beneficiari, quando individuati o facilmente individuabili; c) i titolari di funzioni di rappresentanza legale, direzione e amministrazione.
+
+5\. Qualora l’applicazione dei criteri di cui ai precedenti commi non consenta di individuare univocamente uno o più titolari effettivi, il titolare effettivo coincide con la persona fisica o le persone fisiche titolari conformemente ai rispettivi assetti organizzativi o statutari, di poteri di rappresentanza legale, amministrazione o direzione della società o del cliente comunque diverso dalla persona fisica.
+
+6\. I soggetti obbligati conservano traccia delle verifiche effettuate ai fini dell'individuazione del titolare effettivo nonché, con specifico riferimento al titolare effettivo individuato ai sensi del comma 5, delle ragioni che non hanno consentito di individuare il titolare effettivo ai sensi dei commi 1, 2, 3 e 4 del presente articolo.
+
+Data \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+per ricevuta e presa visione \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Firma Cliente o Esecutore
+
+  
+
+AV.5 - ATTESTAZIONE DEL PROFESSIONISTA ex art. 27 d.lgs. 231/2007
+
+Il sottoscritto \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, iscritto all’ Albo dei Dottori Commercialisti e degli Esperti Contabili di\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ al n.\_\_\_\_\_/Sez.\_\_\_\_ con studio in\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(\_\_\_\_), alla via/piazza\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ n. \_\_\_\_\_\_, avendo ricevuto in data \_\_\_\_\_\_\_\_\_ dal Professionista di cui all’art. 3, co. 4, d.lgs. 231/2007 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ residente in \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (\_\_\_\_), alla via/piazza \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_n. \_\_\_\_\_\_, richiesta di dichiarazione di esecuzione degli obblighi di “Adeguata verifica della clientela” ex art. 18, co. 1, lettere a), b) e c), del d.lgs. 231/2007 nei confronti di:
+
+Persona fisica Cliente o legale rappresentante/delegato/procuratore della società/ente che conferisce il mandato professionale:
+
+Cognome e nome \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Codice fiscale \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Carica/poteri rappresentanza \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Società/ente Cliente:
+
+Denominazione/ragione sociale \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Codice fiscale \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ATTESTA
+
+così come previsto dagli articoli 26 e 27 del d.lgs. 231/2007:
+
+di aver assolto direttamente e correttamente l’obbligo di adeguata verifica del Cliente \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+la coincidenza tra il Cliente verificato dal sottoscritto Professionista e il Cliente per il quale si richiede l’attestazione.
+
+Allega, alla presente attestazione, copia della seguente documentazione, conservata agli atti presso lo studio del sottoscritto Professionista attestante:
+
+o dichiarazione del cliente ex art. 22 d.lgs. 231/2007
+
+o documento di identità del cliente
+
+o \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+o \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+o \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Data\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Firma del Professionista attestante
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Nota per la compilazione
+
+Il presente modulo deve essere compilato esclusivamente dal professionista a cui sia stato richiesto, ai sensi degli artt. 26-30 del d.lgs. 231/2007, il rilascio di una attestazione relativa al corretto adempimento degli obblighi di adeguata verifica nei confronti di un determinato cliente. In tal caso il professionista attestante, dopo aver compilato il modulo, lo trasmetterà al soggetto obbligato che se ne avvale. Sarà quest’ultimo a dover conservare il modulo, unitamente alla documentazione allegata, nel proprio fascicolo cliente.
+
+  
+
+AV.6 - DICHIARAZIONE DI ASTENSIONE DEL PROFESSIONISTA[5](#footnote5) ex art. 42 d.lgs. 231/2007
+
+Il sottoscritto \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Professionista di cui all’articolo 3, co. 4, lett. a), d.lgs. 231/2007,
+
+DICHIARA
+
+che il sig. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, con dati identificativi allegati alla presente (ove disponibili), si è rivolto al sottoscritto professionista per conferire il seguente incarico professionale
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (breve descrizione della prestazione richiesta);
+
+di non essere stato in grado di completare la procedura di adeguata verifica della clientela (identificazione e verifica dell’identità del cliente e del titolare effettivo nonché acquisizione e valutazione di informazioni su scopo e natura della prestazione professionale richiesta) per effetto di \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(breve descrizione delle motivazioni che hanno reso oggettivamente impossibile completare l’adeguata verifica);
+
+di essersi astenuto dallo svolgere o di aver interrotto la prestazione professionale richiesta, ai sensi dell’art. 42, d.lgs. 231/2007;
+
+di aver esaminato le cause che hanno determinato l’impossibilità di completare l’adeguata verifica e aver valutato, ai sensi dell’art. 35 del d.lgs. 231/2007, che ricorre/non ricorre (cancellare l’opzione non applicabile) l’obbligo di segnalazione di operazione sospetta (SOS) per i seguenti motivi
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+(indicare l’iter logico seguito per determinare la necessità di effettuare o di NON effettuare una SOS).
+
+Allega alla presente dichiarazione la seguente documentazione (ove presente):
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Data \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Il Professionista
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+  
+
+AV.7 - PROCEDURA DI CONTROLLO COSTANTE
+
+Cliente \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+|  |  |  |
+| :-: | :-: | :-: |
+| Controllo | Esito del controllo |  |
+| Sì | No | Non applicabile |
+| La complessiva operatività del cliente (operazioni e attività) risulta coerente rispetto alla conoscenza del medesimo e al profilo di rischio assegnato? |  |  |
+| Nell’ambito della prestazione professionale svolta sono state riscontrate infrazioni del contante/titoli o anomalie rilevanti ai fini della SOS? |  |  |
+| Permane la coerenza dello scopo e natura delle prestazioni professionali dichiarate dal cliente all’atto del conferimento dell’incarico con le informazioni acquisite nel corso dello svolgimento dell’incarico?  |  |  |
+| Viene confermata la relazione cliente/esecutore e cliente/titolare effettivo? |  |  |
+| Risulta coerente la provenienza dei fondi e risorse nella disponibilità del cliente con il suo profilo (in funzione del rischio)? |  |  |
+| Sono state rilevate incongruenze negli atti/comportamenti del cliente rispetto alla sua capacità economica /finanziaria/patrimoniale? |  |  |
+| I dati identificativi del cliente (ex art. 1, co. 2, lett. n) d.lgs. 231/2007) sono aggiornati? |  |  |
+| I dati identificativi dell’esecutore sono aggiornati? |  |  |
+| L’individuazione dei titolari effettivi è aggiornata? |  |  |
+| Si è reso necessario acquisire un nuovo documento di identità? |  |  |
+| Si sono resi necessari approfondimenti o ulteriori verifiche sul cliente/prestazione sulla base di informazioni acquisite o possedute in ragione dell’esercizio dell’attività (art. 19 co.1 lett. d) d.lgs. 231/2007)? |  |  |
+| In caso di risposta positiva al precedente campo di controllo, sono emerse incongruenze o anomalie dalle nuove informazioni assunte? |  |  |
+
+Eventuali ulteriori annotazioni del Professionista: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Livello di rischio e tempi di controllo
+
+È confermato il livello di rischio (poco/abbastanza/molto significativo) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_già assegnato al Cliente.
+
+Oppure
+
+Le variazioni intervenute risultano significative e, quindi, occorre procedere a rideterminare il rischio effettivo e, eventualmente, la tipologia di adeguata verifica da effettuare per il Cliente.
+
+A seguito di nuova valutazione del rischio effettivo, il risultato è (poco/abbastanza/molto significativo) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+
+Tempo di controllo in base agli esiti della valutazione del rischio confermata o rideterminata
+
+(36/24/12/6 mesi): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Nuova scadenza controllo costante \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Allegati: eventuale documentazione acquisita ai fini del presente controllo costante.
+
+Data \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Il Professionista
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+1 Tale modulo ha finalità meramente riepilogativa, utile a indicare la documentazione acquisita ai fini antiriciclaggio con la relativa data di assunzione al fascicolo; pertanto, la sua compilazione NON COSTITUISCE ADEMPIMENTO DI UN OBBLIGO DI LEGGE e la scelta di adottarlo è rimessa unicamente ad una valutazione in termini di opportunità operata dal Professionista.
+
+2 Il presente modulo riepiloga informazioni per lo più già contenute negli altri format proposti per il corretto adempimento degli obblighi e può essere utilizzato a meri fini riepilogativi per agevolare l’Iscritto nel monitoraggio dei dati e informazioni detenuti rispetto a ciascun cliente.
+
+3 Come risultante all’esito della determinazione del rischio effettivo (cfr. AV 1).
+
+4 Caso residuale in assenza di partecipazioni rilevanti o altri tipi di controllo ai sensi dei commi da 1 a 3 dell’art. 20 d.lgs. 231/2007.
+
+5 Ai sensi dell’art. 42, co. 3, d.lgs. 231/2007, i professionisti sono esonerati dall'obbligo di astensione, limitatamente ai casi in cui esaminano la posizione giuridica del loro cliente o espletano compiti di difesa o di rappresentanza del cliente in un procedimento innanzi a un'autorità giudiziaria o in relazione a tale procedimento, compresa la consulenza sull'eventualità di intentarlo o evitarlo.
