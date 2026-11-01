@@ -179,11 +179,13 @@ Vincoli inderogabili:
 
 | Voce | Dato |
 |---|---|
-| Adeguata verifica | Modulistica dello Studio in `modelli/antiriciclaggio/`: `MOD_AML_modulistica.docx` (M1-M8) e `MOD_AML_valutazione_rischio.xlsx` (autovalutazione, profilatura, controllo costante, formazione, contante). Metodo di calcolo allineato alle Linee Guida CNDCEC 22/05/2019 (Drive dello Studio: pesi 40/60 e 30/70, scala 1,5/2,5/3,5, misure, periodicità 36/36/24/6-12 mesi; testato sugli esempi delle Linee Guida). ⚠ Da confrontare con la modulistica CNDCEC del 18/03/2026 (Informativa n. 57/2026) e con le Regole Tecniche 2025 (delibera n. 9/2025) |
+| Adeguata verifica | Modulistica dello Studio in `modelli/antiriciclaggio/`: `MOD_AML_modulistica.docx` (M1-M9, corrispondenti ai modelli CNDCEC AV.1-AV.7) e `MOD_AML_valutazione_rischio.xlsx` (AV.0 autovalutazione, AV.1 profilatura, controllo costante, prestazioni Tab. 1-2, formazione, contante). **Allineata alle Regole Tecniche CNDCEC del 16/01/2025 e alle Indicazioni operative di marzo 2026** (testi in `normativa/`): pesi 40/60 e 30/70; fasce da 1 a <1,6 / <2,6 / <3,6 / 4; non significativo e poco significativo → semplificata, abbastanza → ordinaria, molto → rafforzata; controllo costante 36/24/12-6 mesi; sola Tabella A per revisione legale e tenuta contabilità |
 | Autovalutazione rischio Studio (art. 15; RT n. 1) | [DC] ⚠ Termine di aggiornamento 27/05/2026 (1 anno dall'Analisi nazionale del 27/05/2025): se non eseguita, **inadempimento in corso**. Foglio "RT1 Autovalutazione" |
 | Conservazione fascicoli AML | Cartacea (artt. 31-32 D.Lgs. 231/2007) — raccomandata copia digitale con marca temporale |
 | Titolare del trattamento | Maurizio Magotti |
 | DPO / informativa / registro trattamenti (art. 30 GDPR) | [DC] |
+
+Regole di condotta (Tab. 1 RT n. 2) rilevanti per lo Studio: sindaco/collegio **senza** revisione legale → solo copia del verbale di nomina; CTU → copia della nomina; CTP, arbitrato, mediazione → copia del mandato; visto di conformità, interpelli, quesiti → copia del documento di identità; dichiarazioni fiscali esenti (art. 17, c. 7). Sindaco/collegio **con** revisione → adeguata verifica piena (Tab. 2: revisione legale, abbastanza significativo).
 
 Ruolo privacy: titolare autonomo per consulenza, revisione, sindaco e CTU; ⚠️ tenuta contabilità con dati di terzi: posizione non univoca (titolare autonomo vs responsabile art. 28 GDPR).
 
@@ -292,4 +294,4 @@ Interventi prioritari emersi dal questionario:
 - Strumento minimo di monitoraggio crisi — **fatto** (vedi punto 5)
 - Polizza RC da inserire nelle lettere di incarico
 - Manuale ISQM semplificato — **bozza fatta**: `modelli/revisione/MOD_manuale_SGQ_ISQM.docx` (da completare e approvare)
-- Modulistica AML — **fatto**: `modelli/antiriciclaggio/` (da confrontare con la modulistica CNDCEC 2026); **urgente**: autovalutazione RT1 scaduta il 27/05/2026 se non eseguita
+- Modulistica AML — **fatto e allineata alle Regole Tecniche 2025 / Indicazioni operative 2026**; **urgente**: autovalutazione RT1 scaduta il 27/05/2026 se non eseguita

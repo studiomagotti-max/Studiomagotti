@@ -1,0 +1,686 @@
+CNDCEC - Reg. nr.0004142/2026 del 26/03/2026 - ore 13.04.59
+
+AREA DI DELEGA CNDCEC Antiriciclaggio - Anticorruzione
+
+DOCUMENTO
+
+INDICAZIONI OPERATIVE PER LA COMPILAZIONE DELLA MODULISTICA PROPOSTA DAL CNDCEC PER L’ADEMPIMENTO DEGLI OBBLIGHI ANTIRICICLAGGIO AI SENSI DEL D.LGS. N. 231/2007 E DELLE REGOLE TECNICHE DEL 16.01.2025
+
+DOCUMENTO
+
+MARZO 2026
+
+CONSIGLIERA DELEGATA Gabriella Viggiano
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+Composizione del Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili
+
+Presidente Elbano de Nuccio
+
+Vice Presidente Antonio Repaci
+
+Consigliere Segretario Giovanna Greco
+
+Consigliere Tesoriere David Moro
+
+Consiglieri Gianluca Ancarani Marina Andreatta Cristina Bertinelli Aldo Campo Rosa D’Angiolella Michele de Tavonatti Fabrizio Escheri Gian Luca Galletti Cristina Marrone
+
+I
+
+Maurizio Masini Pasquale Mazza Eliana Quintili Salvatore Regalbuto Maria Lucetta Russotto Pierpaolo Sanna Liliana Smargiassi Giuseppe Venneri Gabriella Viggiano
+
+Collegio dei revisori
+
+Presidente Rosanna Marotta
+
+Componenti Maura Rosano Sergio Ceccotti
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+Area di delega “Antiriciclaggio - Anticorruzione”
+
+Consigliera CNDCEC delegata
+
+Gabriella Viggiano
+
+Staff tecnico
+
+Susanna Ciriello
+
+Annalisa De Vivo
+
+II
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+Sommario
+
+1\. Introduzione 1
+
+2\. Premessa metodologica 2
+
+3\. Autovalutazione del rischio 3
+
+3.1. Modello AV.0 3
+
+4\. Adeguata verifica della clientela 8
+
+4.1. Modello AV.1 9
+
+4.2. Modello AV.2 12
+
+4.3. Modello AV.3 12
+
+4.4. Modello AV.4 13
+
+4.5. Modello AV.5 13
+
+4.6. Modello AV.6 14
+
+4.7. Modello AV.7 14
+
+5\. Conservazione dei dati, documenti e informazioni 15
+
+III
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+1\. Introduzione
+
+Con il presente documento il Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili mette a disposizione dei propri Iscritti uno strumento operativo utile a offrire supporto nell’adempimento degli obblighi derivanti dal decreto legislativo 21 novembre 2007, n. 231 secondo quanto previsto dalle Regole Tecniche emanate il 16/01/2025 1 , a cui si rimanda integralmente per quanto riguarda il precetto normativo.
+
+La normativa antiriciclaggio si fonda su un approccio basato sul rischio, che richiede al Professionista di valutare, in relazione a ciascun cliente e a ciascun incarico, il grado di esposizione a fenomeni di riciclaggio o di finanziamento del terrorismo. Tale valutazione non può essere effettuata mediante schemi automatici o presunzioni generalizzate, ma implica un apprezzamento concreto delle circostanze specifiche, affidato al giudizio professionale.
+
+Questo principio permea l’intero sistema degli obblighi antiriciclaggio e si riflette nelle diverse fasi dell’attività professionale: dalla valutazione iniziale del rischio all’adeguata verifica della clientela, fino alla conservazione delle informazioni e della documentazione rilevante. In ciascuna di tali fasi il Professionista è chiamato a operare scelte motivate, coerenti e, ove necessario, ricostruibili nel tempo, anche ai fini di eventuali controlli da parte delle Autorità competenti.
+
+In tale contesto, anche gli strumenti di ausilio previsti dalla normativa, quali gli Indicatori di anomalia emanati dalla Unità di Informazione Finanziaria per l’Italia (UIF) 2, non introducono automatismi decisionali, ma supportano il Professionista nell’individuazione di possibili elementi di rischio, che devono essere sempre valutati alla luce delle specificità del caso concreto.
+
+Alla luce di tale impostazione, il presente documento fornisce istruzioni operative per la compilazione della modulistica relativa ai principali adempimenti antiriciclaggio con l’obiettivo di supportare il Professionista nella gestione coerente e consapevole delle diverse fasi del processo.
+
+Gli strumenti messi a disposizione hanno finalità esclusivamente operative e di orientamento e non introducono disposizioni normative, restando ferme esclusivamente le previsioni del Decreto antiriciclaggio e delle Regole Tecniche, che integrano la disciplina primaria.
+
+Gabriella Viggiano Consigliera delegata Area Antiriciclaggio-Anticorruzione
+
+1 Le Regole Tecniche vigenti alla data di pubblicazione del presente documento sono quelle adottate ed emanate dal Consiglio Nazionale con Deliberazione n. 9 del 16 gennaio 2025, previo Parere del Comitato di Sicurezza Finanziaria ricevuto in data 27 dicembre 2024. 2 Provvedimento 12 maggio 2023, che ha attuazione dal 01.01.2024.
+
+1
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+2\. Premessa metodologica
+
+Ai fini dell’adempimento degli obblighi antiriciclaggio a carico dei Commercialisti, il livello di rischio rilevato viene valorizzato secondo le modalità individuate nelle Regole Tecniche e, quindi, utilizzando la scala graduata di seguito riportata per la rilevazione del:
+
+\- rischio inerente, della vulnerabilità e del rischio residuo ai fini dell’autovalutazione del rischio
+
+dello studio professionale
+
+\- rischio inerente, del rischio specifico e del rischio effettivo ai fini della valutazione del rischio
+
+connesso al cliente e alla prestazione professionale
+
+Valore Rischio/vulnerabilità
+
+1 Non significativo/a
+
+2 Poco significativo/a
+
+3 Abbastanza significativo/a
+
+4 Molto significativo/a
+
+e facendo riferimento ai seguenti intervalli per la determinazione del rischio residuo riferito all’autovalutazione del rischio dello studio professionale e del rischio effettivo connesso alla valutazione del cliente e della prestazione professionale
+
+Intervallo Rischio residuo/effettivo
+
+da 1 a \< 1,6 Non significativo
+
+da 1,6 a \< 2,6 Poco significativo
+
+da 2,6 a \< 3,6 Abbastanza significativo
+
+da 3,6 a \< 4 Molto significativo
+
+2
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+3\. Autovalutazione del rischio
+
+Riferimenti normativi Decreto legislativo 21 novembre 2007, n. 231 – artt. 15 - 16 - 16-ter CNDCEC: Regola Tecnica n. 1 Modulistica di supporto Mod. AV.0 - AUTOVALUTAZIONE DEL RISCHIO N.B. L’autovalutazione deve essere messa a disposizione delle Autorità competenti ai sensi dell’art. 21, co. 2, lett. a) del d.lgs. 231/2007 (Ministero dell’Economia e delle finanze, Autorità di vigilanza di settore, Unità di Informazione Finanziaria per l’Italia - UIF, Direzione Investigativa Antimafia - DIA e Guardia di Finanza) e degli Organismi di autoregolamentazione. La mancata esibizione di un documento attestante l’autovalutazione, ovvero l’omessa adozione dello stesso, non è direttamente sanzionabile, ma rileva ai fini della determinazione del quantum delle sanzioni connesse all’inadempimento degli obblighi antiriciclaggio (art. 67 d.lgs. 231/2007).
+
+Scopo dell’adempimento 1. Valutare il rischio di esposizione del proprio studio professionale, ossia definire il livello di rischio di non essere in grado di intercettare una fattispecie di riciclaggio e/o di finanziamento del terrorismo e/o della proliferazione delle armi di distruzione di massa nell’esercizio dell’attività professionale 2. Definire e attuare eventuali procedure per la gestione ovvero per la mitigazione del rischio rilevato
+
+Attività delegabile: NO L’adempimento deve essere assolto dal Professionista e non è delegabile. Negli studi associati e nelle STP, laddove si opti per l’autovalutazione “centralizzata”, il documento di autovalutazione è firmato dal legale rappresentante dell’associazione professionale/STP.
+
+Periodicità dell’adempimento Ogni qualvolta si ritenga sia opportuno in ragione di sopravvenuti rilevanti mutamenti dei parametri considerati ai fini dell’autovalutazione condotta e, in ogni caso, entro un anno dalla pubblicazione dell’aggiornamento periodico dell’Analisi nazionale dei rischi di riciclaggio e finanziamento del terrorismo/proliferazione delle armi di distruzione di massa a cura del Comitato di Sicurezza Finanziaria (CSF)3.
+
+Ai fini dell’adempimento dell’obbligo di autovalutazione del rischio previsto dagli artt. 15, 16 e 16-ter del d.lgs. 231/2007 il Professionista può avvalersi della modulistica messa a disposizione dal Consiglio Nazionale e di seguito illustrata.
+
+3.1. Modello AV.0
+
+Il Modello AV.0 - Autovalutazione del rischio consente al Professionista di effettuare una valutazione strutturata e periodica del proprio livello di esposizione al rischio di riciclaggio e/o finanziamento del terrorismo e della proliferazione, in conformità agli artt. 15, 16 e 16-ter del d.lgs. 231/2007 e alla Regola Tecnica n. 1.
+
+3 Alla data di pubblicazione del presente documento l’ultima Analisi nazionale dei rischi di riciclaggio e finanziamento del terrorismo, nonché la prima Analisi nazionale dei rischi di finanziamento della proliferazione delle armi di distruzione di massa, risultano essere state pubblicate il 27 maggio 2025, con conseguente necessità per tutti i Commercialisti di aggiornare l’autovalutazione entro il 27 maggio 2026.
+
+3
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+Metodologia
+
+Il modello è strutturato in modo da supportare il Commercialista nella determinazione del rischio residuo a cui è esposta l’attività professionale, tenendo conto del rischio inerente e della vulnerabilità del proprio studio, sulla base dell’applicazione della seguente formula:
+
+RISCHIO RESIDUO= RISCHIO INERENTE x 40%+ VULNERABILITÀ x 60%
+
+Valutazione del rischio inerente
+
+Applicando la metodologia indicata nella RT 1, cui si rinvia integralmente, il Professionista procederà a determinare il rischio inerente all’attività svolta, valutando i seguenti fattori indicati nel Modello AV.0 - Tabella I - Misurazione livello di rischio inerente:
+
+1\. Tipologia clientela
+
+La quantificazione del rischio legato al fattore “Tipologia clientela” tiene conto delle risultanze in complessivo dell’adeguata verifica della clientela svolta secondo la RT 2.
+
+Per l’attribuzione del punteggio il Commercialista può riferirsi, ad esempio, all’incidenza percentuale dei clienti assoggettati ad adeguata verifica rafforzata sul totale clienti, ovvero scegliere di considerare ogni eventuale diverso elemento utile ad effettuare la valutazione in ragione della tipologia di clientela seguita.
+
+Qualora la valutazione sia effettuata tenendo conto nel numero/percentuale dei clienti risultati a rischio molto significativo in sede di adeguata verifica, può ragionevolmente ritenersi valida l’attribuzione dell’indice di rischiosità considerando quanto di seguito riportato a carattere indicativo ed esemplificativo:
+
+n.ro di clienti Percentuali esemplificative Indice di rischiosità
+
+Non significativo fino al 10% 1
+
+Poco significativo superiore al 10% e fino al 25% 2
+
+Abbastanza significativo superiore al 25% e fino al 40% 3
+
+Molto significativo superiore 40% 4
+
+2\. Area geografica di operatività
+
+La valutazione del rischio relativamente a tale fattore tiene conto complessivamente dell’area geografica in cui si esplicano prevalentemente le prestazioni professionali; in tal senso, per la relativa quantificazione del livello di rischio valgono le medesime considerazioni svolte precedentemente, ivi inclusa la personale valutazione effettuata in complessivo dal Professionista sulla base della rilevanza di eventuali connotazioni specifiche legate alla sua concreta operatività.
+
+Anche in tal caso, può ragionevolmente ritenersi (ferma restando ogni altra diversa valutazione ascritta alla responsabilità del Professionista) che l’attribuzione dell’indice di rischiosità possa essere effettuata
+
+4
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+tenendo conto del numero/percentuale dei clienti operanti in aree geografiche ad alto rischio4:
+
+n.ro di clienti Percentuali esemplificative Indice di rischiosità
+
+Non significativo fino al 10% 1
+
+Poco significativo superiore al 10% e fino al 25% 2
+
+Abbastanza significativo superiore al 25% e fino al 40% 3
+
+Molto significativo superiore al 40% 4
+
+3\. Canali distributivi
+
+Come indicato nella RT 1, di norma tale fattore è difficilmente associabile all’attività professionale; per tale motivo, la valutazione del rischio allo stesso correlata assume carattere residuale, salvo i casi di studi particolarmente strutturati e/o di grandi dimensioni, per i quali occorrerà quantificare il rischio tenendo conto dell’incidenza delle collaborazioni esterne, dei canali di pagamento e delle specifiche modalità di esplicazione della prestazione professionale. Anche in tal caso, può ragionevolmente ritenersi (ferma restando ogni altra diversa valutazione ascritta alla responsabilità del Professionista) che l’attribuzione dell’indice di rischiosità possa essere effettuata tenendo conto complessivamente dell’incidenza percentuale del fattore riferito alla modalità di esplicazione della prestazione professionale (collaborazioni esterne, corrispondenze, canali di pagamento) sul totale delle prestazioni rese, come di seguito riportato a carattere indicativo ed esemplificativo:
+
+Incidenza del fattore Percentuali esemplificative Indice di rischiosità
+
+Non significativa fino al 10% 1
+
+Poco significativo superiore al 10% e fino al 25%): 2
+
+Abbastanza significativo superiore al 25% e fino al 40%): 3
+
+Molto significativo superiore al 40% 4
+
+4\. Servizi offerti
+
+Ai fini dell’attribuzione del livello di rischio legato allo specifico fattore occorrerà tenere conto in complessivo della potenziale esposizione al rischio di riciclaggio ovvero del finanziamento del terrorismo/proliferazione delle specifiche prestazioni professionali erogate, così come graduate in termini di rischio nelle tabelle 1 e 2 della RT 2.
+
+Anche in tale caso, come precedentemente indicato, l’attribuzione del livello di rischio allo specifico fattore può essere effettuata tenendo conto dell’incidenza percentuale delle prestazioni qualificate
+
+4 Vd. Analisi nazionale dei rischi di riciclaggio e finanziamento del terrorismo e Analisi nazionale dei rischi di finanziamento della proliferazione delle armi di distruzione di massa pubblicate dal Comitato di Sicurezza Finanziaria del Ministero dell’economia e delle finanze in data 27.05.2025. In particolare, nella prima Analisi si indica la distribuzione geografica del rischio di utilizzo eccessivo del contante sul territorio nazionale attraverso specifici indicatori (par. 2.1., pag. 10 ss.); nella seconda Analisi si individuano i Paesi destinatari dei regimi sanzionatori disposti dalle Nazioni Unite e dall’Unione Europea. Inoltre, a titolo esemplificativo, si veda l’elenco dei Paesi terzi ad alto rischio identificati dalla Commissione europea: si tratta delle giurisdizioni attualmente considerate ad alto rischio dall’UE in quanto aventi carenze strategiche nei rispettivi regimi nazionali di prevenzione e contrasto del riciclaggio/finanziamento del terrorismo che pongono, pertanto, minacce significative al sistema finanziario europeo. Si veda, in particolare, il Regolamento UE 2016/1675 (e i successivi aggiornamenti) che integra la direttiva UE 2015/849 individuando i Paesi terzi ad alto rischio con carenze strategiche.
+
+5
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+come a “rischio inerente non significativo” o “poco significativo” sul totale delle prestazioni rese; rimane valida ogni altra valutazione effettuata dal Professionista in ragione dell’effettiva attività svolta e dell’organizzazione e presidi dallo stesso implementati.
+
+Può ragionevolmente ritenersi (ferma restando ogni altra diversa valutazione ascritta alla responsabilità del Professionista) che l’attribuzione dell’indice di rischiosità sia effettuato come segue:
+
+Percentuale delle prestazioni classificate a rischio inerente “non significativo” o “poco significativo “ Indice di rischiosità
+
+superiore all’80% 1
+
+superiore al 60% e fino all’80% 2
+
+superiore al 45% e fino al 60% 3
+
+fino al 45% 4
+
+Attribuiti i livelli di rischiosità ai singoli fattori, si procede alla somma dei relativi valori e, a seguire, al calcolo della media aritmetica, ottenendo così il valore di rischio inerente che, ai fini del calcolo del rischio residuo, andrà ponderato con il coefficiente del 40%.
+
+Valutazione della vulnerabilità
+
+Come indicato nella RT1, il grado di vulnerabilità dello studio dipende da quegli elementi in grado di incidere sulla capacità dei presidi di rilevare/non rilevare fenomeni di riciclaggio di denaro e/o finanziamento del terrorismo e della proliferazione. Oggetto di valutazione sono, quindi, gli elementi in grado di influenzare l’efficacia dei presidi; pertanto, occorrerà attribuire a ciascuno di essi i consueti indici di rischiosità, effettuando l’autovalutazione in termini di completezza e strutturazione con riferimento ai seguenti aspetti:
+
+a. Formazione (del titolare dello studio e dei collaboratori e/o dipendenti): la valutazione guarda al grado complessivo di conoscenza della norma e degli strumenti a supporto dell’intercettazione/prevenzione dei fenomeni di riciclaggio di denaro e/o finanziamento del terrorismo e della proliferazione.
+
+b. Organizzazione degli adempimenti di adeguata verifica: la valutazione tiene conto della completezza e strutturazione delle misure adottate per adempiere agli obblighi di adeguata verifica della clientela (ad es. esistenza e documentazione, attraverso l’utilizzo di apposita modulistica, di procedure per l’identificazione del cliente, dell’esecutore e del titolare effettivo).
+
+c. Organizzazione degli adempimenti relativi alla conservazione dei documenti, dati e informazioni: la valutazione tiene conto della completezza e strutturazione delle misure adottate per adempiere agli obblighi di conservazione dei dati, dei documenti e delle informazioni acquisiti per l’adempimento degli obblighi antiriciclaggio (ad es. istituzione e aggiornamento di un sistema organico di conservazione dei fascicoli della clientela; individuazione dei soggetti legittimati ad alimentare e ad accedere al sistema).
+
+d. Organizzazione in materia di segnalazione di operazioni sospette e comunicazione delle violazioni relative alle norme sull’uso del contante: la valutazione è effettuata tenendo conto complessivamente della completezza e strutturazione delle misure adottate per adempiere agli obblighi previsti in materia di SOS e comunicazioni delle violazioni dei limiti all’utilizzo del
+
+6
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+7
+
+contante 5 (ad es. esistenza di una procedura interna per la rilevazione di anomalie con tracciatura delle valutazioni utili a definire la sussistenza o meno del sospetto di riciclaggio/finanziamento del terrorismo e della proliferazione; diffusione interna degli indicatori di anomalia nonché delle casistiche di riciclaggio/finanziamento del terrorismo e della proliferazione elaborate da UIF, ulteriori sistemi di rilevazione eventualmente adottati).
+
+L’autovalutazione porterà, quindi, ad attribuire a ciascuno degli elementi sopra individuati ed esplicitati i valori corrispondenti secondo i parametri di seguito indicati.
+
+Rilevanza Indice di rischio
+
+Non significativa per presidi completi e strutturati 1
+
+Poco significativa per presidi ordinari 2
+
+Abbastanza significativa per presidi lacunosi 3
+
+Molto significativa per presidi insufficienti 4
+
+Il grado di vulnerabilità sarà dato dalla media aritmetica della somma dei valori attribuiti a ciascun elemento; ai fini della determinazione del rischio residuo, il valore medio ottenuto sarà, quindi, ponderato con il coefficiente del 60%.
+
+Si procederà, quindi a determinare come segue il rischio residuo:
+
+RISCHIO INERENTE PONDERATO
+
+(livello di rischio inerente x 0,40) + VULNERABILITÀ PONDERATA
+
+(livello di vulnerabilità x 0,60) =
+
+RISCHIO RESIDUO (Somma valori ponderati)
+
+Giova rammentare che in ipotesi di rischio residuo abbastanza significativo o molto significativo, occorrerà programmare e porre in essere azioni di gestione e mitigazione del rischio, individuate tenendo conto delle dimensioni della organizzazione professionale.
+
+Implementate tali azioni, in occasione della successiva autovalutazione del rischio (da effettuare secondo le indicazioni fornite dalla Regola Tecnica n. 1), il Professionista potrà verificare che le stesse siano state effettivamente utili allo scopo per cui erano state previste.
+
+5 La comunicazione sulla violazione dei limiti all’utilizzo del contante va effettuata a prescindere dall’eventuale sospetto di riciclaggio o di finanziamento del terrorismo e della proliferazione: ai fini della comunicazione nessuna valutazione soggettiva dovrà essere posta in essere. La comunicazione non va effettuata solo nel caso in cui la fattispecie esaminata sia già stata oggetto di una SOS.
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+4\. Adeguata verifica della clientela
+
+Riferimenti normativi Decreto legislativo 21 novembre 2007, n. 231 – artt. 17 - 30 CNDCEC: Regola Tecnica n. 2
+
+Modulistica di supporto
+
+Mod.AV.1 - DETERMINAZIONE DEL RISCHIO EFFETTIVO E DELLA TIPOLOGIA DI ADEGUATA VERIFICA
+
+Mod.AV.2 - DOCUMENTO RIEPILOGATIVO DATI, INFORMAZIONE E DOCUME NTI ACQUISITI
+
+Mod.AV.3 - ISTRUTTORIA CLIENTE
+
+Mod.AV.4 - DICHIARAZIONE DEL CLIENTE EX ART. 22, CO. 1, D.LGS. 231/2007
+
+Mod.AV.5 - ATTESTAZIONE DEL PROFESSIONISTA EX ART. 27 D.LGS. 231/2007
+
+Mod.AV.6 - DICHIARAZIONE DI ASTENSIONE DEL PROFESSIONISTA EX ART. 42 D.LGS. 231/2007
+
+Mod.AV.7 - PROCEDURA DI CONTROLLO COSTANTE
+
+Scopo dell’adempimento L’adempimento è posto in essere per le prestazioni professionali continuative (aventi durata nel tempo) e per le prestazioni occasionali, ivi incluse quelle ad esecuzione istantanea, che comportino la movimentazione o la trasmissione di mezzi di pagamento o il compimento di atti negoziali a contenuto patrimoniale, se i mezzi di pagamento trasmessi o movimentati sono di importo pari o superiore a 15.000 euro, ovvero per tutte quelle prestazioni a contenuto economico-patrimoniale per le quali non sia identificabile il valore dell’oggetto della prestazione (N.B. i riferimenti sono al valore dell’oggetto della prestazione e non al compenso professionale). L’adempimento consiste:
+
+1\. nell’identificazione del cliente (e acquisizione di un documento di riconoscimento), dell’esecutore e
+
+del titolare effettivo 2. nell’acquisizione e valutazione di informazioni su scopo e natura della prestazione professionale 3. nel controllo costante, in caso di rapporto continuativo
+
+Attività delegabile: NO L’adempimento deve essere assolto dal Professionista e non è delegabile. Il Professionista può demandare esclusivamente gli adempimenti amministrativi inerenti all’acquisizione e conservazione della copia del documento di riconoscimento del cliente o dell’esecutore, nonché della documentazione indicata dalla regola di condotta (ove ricorrente la fattispecie), avendo cura di informare il cliente circa i soggetti incaricati del trattamento dei propri dati (ai sensi della normativa privacy) e il collaboratore/dipendente degli obblighi di riservatezza a cui è tenuto.
+
+Termine per l’esecuzione dell’adempimento Le attività di identificazione e verifica dell’identità del cliente, dell’esecutore e del titolare effettivo sono svolte preliminarmente all’instaurazione del rapporto continuativo o del conferimento dell’incarico. Peraltro, tenuto conto di quanto previsto dall’art. 32, co. 2, lett. b) del d.lgs. 231/2007 (che, con riferimento alle modalità di conservazione, considera tempestiva l’acquisizione dei documenti, dei dati e delle informazioni conclusa entro i 30 giorni successivi al suddetto conferimento), si può ragionevolmente ritenere che l’adeguata verifica possa essere completata entro 30 giorni dal conferimento dell’incarico.
+
+Periodicità dell’adempimento Nel caso di rapporto continuativo, sulla base delle risultanze della valutazione del rischio effettivo legato al cliente, il Professionista andrà a individuare il tipo di adeguata verifica da effettuare e la connessa periodicità del controllo costante a cui è tenuto (i.e. 36 mesi per AV semplificata; 24 mesi per AV ordinaria; 12/6 mesi per l’AV rafforzata).
+
+8
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+Ai fini dell’adempimento dell’obbligo di adeguata verifica della propria clientela previsto dagli artt. 17-30 del d.lgs. 231/2007, il Professionista può avvalersi della seguente modulistica messa a disposizione dal Consiglio Nazionale:
+
+4.1. Modello AV.1
+
+Il Modello AV.1 - Determinazione del rischio effettivo e della tipologia di adeguata verifica costituisce lo strumento operativo attraverso il quale il Professionista applica in concreto l’approccio basato sul rischio previsto dall’art. 17, co. 3, del d.lgs. 231/2007 e dalla Regola Tecnica n. 2.
+
+Il modello consente di tradurre in una valutazione strutturata e documentata l’analisi del cliente e della prestazione professionale, consentendo, attraverso il sistema di attribuzione di punteggi, di determinare il rischio effettivo, che rappresenta il presupposto per individuare la tipologia di adeguata verifica da applicare (semplificata, ordinaria o rafforzata).
+
+Metodologia
+
+Al fine di stabilire quale tipologia di adeguata verifica dovrà essere applicata al cliente (semplificata - ordinaria - rafforzata), il Professionista procede alla valutazione del rischio allo stesso connesso, identificando il rischio inerente legato alla prestazione professionale e il rischio specifico attribuibile al cliente e alla prestazione richiesta e addivenendo - attraverso l’applicazione della seguente formula - alla definizione del rischio effettivo che determina l’adeguata verifica da applicare.
+
+RISCHIO EFFETTIVO = RISCHIO INERENTE x 30%+ RISCHIO SPECIFICO x 70%
+
+Per poter procedere in tale valutazione, il Professionista deve acquisire la dichiarazione del Cliente ex art. 22 d.lgs. 231/2007 (Modello AV.4 - vd. infra).
+
+Espletata tale attività, sempre utilizzando il modello AV.1 (o altro strumento dal contenuto equivalente), il Professionista procede alla determinazione del rischio effettivo, secondo quanto di seguito indicato.
+
+Valutazione del rischio inerente (RI)
+
+Applicando la metodologia indicata nella RT 2, cui si rinvia integralmente, il Professionista procederà a identificare il rischio inerente correlato alla prestazione professionale oggetto di incarico sulla base del corrispondente grado di intensità di rischio (1; 2; 3; 4) indicato nelle Tabelle 1 e 2 della RT2. Resta inteso che, in caso di più prestazioni dedotte nel medesimo incarico professionale, si può tenere conto del livello di rischio attribuito alla prestazione prevalente, ovvero del grado di intensità di rischio più elevato; così come è rimessa alla discrezionalità valutativa del Professionista l’attribuzione di un grado più elevato di rischio rispetto a quello indicato nelle richiamate tabelle sulla base di elementi particolari ritenuti rilevanti in relazione al caso specifico.
+
+N.B. Nel caso in cui la prestazione professionale oggetto di valutazione del rischio inerente sia tra quelle ricomprese nella Tabella 1 della RT2, l’adeguata verifica s’intende assolta con l’applicazione della relativa regola di condotta; rimane fermo che la documentazione acquisita in ragione delle indicazioni ivi contenute va a costituire il fascicolo relativo a quell’incarico professionale e, quindi, conservata e archiviata. Resta inteso, altresì, che il Professionista, anche nel caso in cui possa assolvere all’obbligo tramite regola di condotta, è libero di optare per l’adeguata verifica semplificata, ordinaria o rafforzata laddove valuti in concreto per il caso specifico un rischio diverso da quello non significativo.
+
+9
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+Valutazione del rischio specifico (RS)
+
+Ai fini della determinazione del rischio specifico, il Professionista procede a misurare il rischio di specifici aspetti legati al cliente e alla prestazione, valorizzandone il risultato - in base alla presenza/assenza dei fattori di rischio considerabili per la fattispecie - con la scala graduata da 1 a 4, operando come indicato nella Tabella II - Misurazione del rischio specifico del Modello AV.1.
+
+A. Aspetti connessi al cliente
+
+Attraverso la compilazione della sezione A della sopraindicata Tabella vengono valutati - al fine di stabilirne il livello di trasparenza e coerenza - elementi relativi al cliente quali:
+
+• natura giuridica e struttura organizzativa nonché presenza di PEP6 o strutture complesse (trust, fiduciari, enti non profit, ecc.);
+
+• attività esercitata prevalentemente e coerenza con dimensioni e assetto;
+
+• comportamento tenuto in fase di conferimento dell’incarico;
+
+• area geografica di residenza o operatività.
+
+Per ciascuno dei profili indicati il Professionista attribuisce un punteggio da 1 a 4 con possibilità, ove ritenuto necessario, di inserire osservazioni integrative.
+
+Conseguentemente, per ciascuno degli elementi oggetto di valutazione, nel caso in cui vari aspetti esaminati portino a riscontrare “coerenza” e “trasparenza” il rischio associabile sarà non significativo; invece, se taluni aspetti ovvero i più rilevanti risultano non soddisfare criteri di coerenza e trasparenza, il rischio dovrà essere proporzionalmente determinato come poco significativo, abbastanza significativo o molto significativo in ragione di quanto riscontrato.
+
+B. Aspetti connessi alla prestazione
+
+Nella sezione B della Tabella, con il medesimo fine di stabilirne il livello di trasparenza e coerenza, vengono analizzati i seguenti elementi relativi alla prestazione professionale richiesta:
+
+• tipologia (ordinaria/straordinaria);
+
+• modalità di svolgimento (mezzi di pagamento, valute virtuali, procure, domiciliazioni);
+
+• ammontare e coerenza economico-finanziaria;
+
+• frequenza e volume delle operazioni;
+
+• ragionevolezza complessiva rispetto al profilo del cliente;
+
+• area geografica di destinazione.
+
+Anche in tal caso, per ciascuno dei suddetti profili il Professionista attribuisce un punteggio da 1 a 4 con possibilità, ove ritenuto necessario, di inserire osservazioni integrative.
+
+Conseguentemente, per ciascuno degli elementi oggetto di valutazione, nel caso in cui vari aspetti esaminati portino a riscontrare “coerenza” e “trasparenza” il rischio associabile sarà non significativo; invece, se taluni aspetti ovvero i più rilevanti risultano non soddisfare criteri di coerenza e trasparenza, il rischio dovrà essere proporzionalmente determinato come poco significativo,
+
+6 Ci si riferisce a soggetti diversi dal cliente, dal rappresentante legale o dal titolare effettivo (es. i soci presenti nella compagine societaria).
+
+10
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+abbastanza significativo o molto significativo in ragione di quanto riscontrato.
+
+Graduati i due aspetti individuati nella predetta tabella (sezione A: Cliente e sezione B: Prestazione), si procede a calcolare il rischio specifico come segue:
+
+RISCHIO SPECIFICO (RS) = (TOTALE A+TOTALE B): 10
+
+Nel caso in cui si sia in presenza di prestazioni per cui non si è tenuti alla compilazione della sezione B (revisione legale dei conti, tenuta della contabilità, assistenza e consulenza continuativa generica in ambito contabile e fiscale) il rischio specifico si ottiene sommando solo i punteggi della tabella A e dividendo per quattro come di seguito illustrato:
+
+RISCHIO SPECIFICO (RS) = TOTALE A: 4
+
+Il valore che ne scaturisce deve essere raccordato con la seguente scala graduata, la quale restituisce il livello di rischio specifico (RS) attribuibile:
+
+Valori medi Rischio specifico
+
+Punteggio da 1 a \< 1.6 Non significativo
+
+Punteggio da 1.6 a \< 2.6 Poco significativo
+
+Punteggio da 2.6 a \< 3.6 Abbastanza significativo
+
+Punteggio da 3.6 a 4.0 Molto significativo
+
+Per determinare il rischio effettivo (RE), si procede a sommare i valori ponderati del rischio inerente (RI x 30%) e del rischio specifico (RS x 70%) precedentemente determinati
+
+RISCHIO INERENTE (RI) x 30% +
+
+RISCHIO SPECIFICO (RS) x 70% =
+
+RISCHIO EFFETTIVO (RE)
+
+Tenendo conto del principio stabilito nella RT2, il livello di rischio effettivo sarà qualificato secondo la seguente scala graduata:
+
+Valori ponderati Rischio effettivo
+
+Punteggio da 1 a \< 1.6 Non significativo
+
+Punteggio da 1.6 a \< 2.6 Poco significativo
+
+Punteggio da 2.6 a \< 3.6 Abbastanza significativo
+
+Punteggio da 3.6 a 4.0 Molto significativo
+
+Al valore di rischio effettivo così determinato corrisponde un grado di rischio effettivo non/poco/abbastanza/molto significativo da cui, tenendo conto della tabella sotto riportata, origina l’associazione al Cliente di un’adeguata verifica semplificata/ordinaria/rafforzata, con conseguente controllo costante di 36/24/12-6 mesi.
+
+11
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+12
+
+Grado di rischio effettivo rilevato Adeguata Verifica
+
+Non significativo Per i casi di cui alla Tabella 1: regola di condotta
+
+Per tutti gli altri casi: semplificata
+
+Poco significativo Semplificata
+
+Abbastanza significativo Ordinaria
+
+Molto significativo Rafforzata
+
+N.B.: nel caso in cui il Cliente e/o il Titolare Effettivo siano Persone Politicamente Esposte, a prescindere dalle risultanze della valutazione del rischio effettivo, occorrerà procedere con l’adeguata verifica rafforzata.
+
+Quest’ultima, peraltro, non è necessaria nel caso in cui le Persone Politicamente Esposte agiscono in veste di organi delle pubbliche amministrazioni e non come soggetti privati.
+
+L’adeguata verifica rafforzata è altresì obbligatoria nel caso di:
+
+a) rapporti continuativi, prestazioni professionali e operazioni che coinvolgono Paesi terzi ad alto
+
+rischio;
+
+b) rapporti di corrispondenza transfrontalieri, che comportano l’esecuzione di:
+
+\- pagamenti con un ente creditizio o istituto finanziario corrispondente di un Paese terzo
+
+\- servizi per le cripto-attività con un intermediario bancario o finanziario corrispondente di un
+
+Paese terzo.
+
+4.2. Modello AV.2
+
+Il modello AV.2 – Documento riepilogativo dati, informazioni e documenti acquisiti è uno strumento organizzativo interno utilizzabile per riepilogare in un unico documento i dati e le informazioni acquisiti anche attraverso altri modelli nell’ambito dell’adeguata verifica del cliente.
+
+L’utilizzo del modello AV.2 non è obbligatorio per legge; il Professionista potrà scegliere di procedere alla sua compilazione, ovvero demandarla a un proprio dipendente/collaboratore, qualora intenda utilizzarlo per riepilogare i dati e le informazioni acquisiti nell’ambito dell’adeguata verifica del cliente.
+
+Qualora il Professionista scelga di non utilizzare il modello, dovrà avere cura di assicurarsi che la documentazione che costituisce il fascicolo antiriciclaggio del cliente garantisca il rispetto della storicizzazione dei dati e delle informazioni acquisite (cfr. infra CONSERVAZIONE DEI DATI, DOCUMENTI E INFORMAZIONI).
+
+4.3. Modello AV.3
+
+Il Modello AV.3 - Istruttoria Cliente è anch’esso uno strumento operativo interno, la cui compilazione non è obbligatoria. Il Professionista potrà scegliere di utilizzarlo qualora ravvisi la necessità di tracciare in un unico documento le attività di adeguata verifica del cliente svolte nel tempo.
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+Nel caso in cui il Professionista scelga di non utilizzarlo, avrà cura di garantire che in altri documenti presenti nel fascicolo siano indicati “scopo, natura prestazione professionale” (i.e. nel mandato professionale, oppure dettagliando con tali informazioni il campo “prestazione professionale” del modello AV.1).
+
+4.4. Modello AV.4
+
+Il Modello AV.4 - Dichiarazione del Cliente ex art. 22 d.lgs. 231/2007 costituisce lo strumento attraverso il quale il cliente adempie agli obblighi informativi previsti dall’art. 22 del d.lgs. 231/2007, fornendo al Professionista i dati e le informazioni necessari per l’adeguata verifica. Esso, quindi, rappresenta il modello da cui prende avvio l’adeguata verifica e deve essere sempre presente nel fascicolo (eccezione fatta per gli adempimenti antiriciclaggio assolti attraverso la relativa regola di condotta prevista dalla Tabella 1 della RT2).
+
+Il modello proposto formalizza, in modo strutturato e completo, le dichiarazioni che il cliente, sotto la propria responsabilità, è tenuto a rendere con particolare riferimento a:
+
+• scopo e natura della prestazione professionale richiesta;
+
+• eventuale qualifica di Persona Politicamente Esposta (PPE);
+
+• individuazione del titolare effettivo, secondo le diverse possibili configurazioni (azione in proprio, per conto di persone fisiche, per conto di società/enti);
+
+• relazioni tra cliente, esecutore e titolare effettivo;
+
+• situazione economico-patrimoniale e provenienza dei fondi;
+
+• mezzi di pagamento utilizzati (ove la prestazione professionale abbia ad oggetto una operazione, come definita dall’art. 1, co. 2, lett. t), d.lgs. 231/2007);
+
+• assenza di collegamenti con attività criminose, finanziamento del terrorismo o proliferazione di armi di distruzione di massa;
+
+• settore di attività e ambito territoriale di operatività.
+
+L’utilizzo del modello consente di acquisire - nella forma di dichiarazione resa dal cliente sotto la propria responsabilità - le informazioni necessarie a dare corso e implementare l’adeguata verifica.
+
+Attraverso la sottoscrizione, il cliente conferma la consapevolezza delle definizioni normative richiamate (con particolare riferimento alle nozioni di riciclaggio, finanziamento del terrorismo e della proliferazione, di titolare effettivo e di persona politicamente esposta) e si impegna a comunicare eventuali variazioni, favorendo così una gestione ordinata e continuativa del rapporto professionale nel tempo.
+
+4.5. Modello AV.5
+
+Il Modello AV.5 - Attestazione del Professionista ex art. 27 d.lgs. 231/2007 è lo strumento mediante il quale un Professionista può attestare, su richiesta di altro Professionista, di aver già adempiuto agli obblighi di adeguata verifica nei confronti di un determinato cliente. Il modello proposto contiene elementi utili a formalizzare la collaborazione tra professionisti nell’ambito
+
+13
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+dell’adeguata verifica, evitando duplicazioni di attività e consentendo l’utilizzo delle informazioni già raccolte, nei limiti e alle condizioni previste dalla normativa antiriciclaggio.
+
+4.6. Modello AV.6
+
+Il modello AV.6 – Dichiarazione di astensione ex art. 42 d.lgs. 231/2007 propone i contenuti minimi che la dichiarazione del Professionista deve avere in caso di astensione e consente di documentare l’impossibilità di completare l’adeguata verifica della clientela e la conseguente decisione di non avviare o di interrompere la prestazione professionale.
+
+4.7. Modello AV.7
+
+In occasione del controllo costante, da effettuare secondo la periodicità prevista dal tipo di adeguata verifica associata al Cliente (ovvero periodicità inferiore, ove ritenuto opportuno), il Professionista potrà annotare nel Modello AV.7 - Procedura di controllo costante gli esiti dell’avvenuta verifica sugli elementi osservati al fine assolvere al controllo costante.
+
+Nei casi in cui siano intervenute variazioni nei titolari effettivi e/o nelle Persone Politicamente Esposte, il Professionista - in assenza di variazioni negli altri elementi oggetto di valutazione in sede di adeguata verifica - procede ad adempiere al controllo costante, oltre che documentando le verifiche nel modello AV.7, anche acquisendo una nuova dichiarazione del Cliente (Modello AV.4), conservando agli atti la dichiarazione precedente. Così come, nel caso di variazione/necessità di aggiornamento dei dati del Cliente e/o dell’esecutore, il Professionista acquisisce i nuovi dati e/o le copie dei documenti di riconoscimento, conservando comunque quelli precedentemente acquisiti e documentando la verifica sugli altri aspetti sempre attraverso il modello AV.7.
+
+Laddove, invece, siano intervenute variazioni significative negli elementi oggetto di valutazione ai fini dell’adeguata verifica, il Professionista effettuerà una nuova valutazione del rischio (Modello AV.1) mantenendo, anche in questo caso, agli atti del fascicolo la valutazione precedentemente eseguita.
+
+14
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+5\. Conservazione dei dati, documenti e informazioni
+
+Riferimenti normativi Decreto legislativo 21 novembre 2007, n. 231 – artt. 31, 32 e 34 CNDCEC: Regola Tecnica n. 3
+
+Modulistica di supporto L’adempimento si sostanzia nella conservazione di tutta la modulistica acquisita o compilata in ottemperanza agli obblighi previsti dalla normativa antiriciclaggio; per l’espletamento dello stesso non vi è specifica modulistica.
+
+Scopo dell’adempimento Assicurare che documenti, dati e informazioni acquisiti nell’adempimento degli obblighi antiriciclaggio siano conservati, in modalità cartacea e/o informatica, garantendo la storicizzazione e l’integrità degli stessi, per consentire lo svolgimento delle analisi effettuate, nell’ambito delle rispettive attribuzioni, dalla UIF o da altra Autorità competente. N.B. La conservazione va effettuata per tutto il periodo di durata del rapporto e fino a 10 anni successivi alla cessazione dello stesso.
+
+Attività delegabile: SI Il professionista può, nel rispetto delle vigenti disposizioni in materia di Privacy, delegare collaboratori/dipendenti/altri soggetti per lo svolgimento delle attività di conservazione e archiviazione dei dati, informazioni e documenti, ferma restando la sua responsabilità in relazione alla completezza e integrità e tenuta del fascicolo.
+
+Periodicità dell’adempimento L’adempimento è assolto in costanza di rapporto attraverso la conservazione di tutta la documentazione e i dati acquisiti dal Professionista per gli adempimenti in materia di antiriciclaggio.
+
+Ai fini dell’adempimento dell’obbligo di conservazione di dati, informazioni e documenti previsto dagli artt. 31-34 del d.lgs. 231/2007 il Professionista è tenuto ad archiviare la modulistica, i documenti e i dati acquisiti al fascicolo per l’adempimento degli obblighi antiriciclaggio.
+
+Metodologia
+
+Nel corso dello svolgimento del rapporto professionale il Professionista, nell’ottemperare agli obblighi antiriciclaggio, acquisisce dati, informazioni e documenti sul suo Cliente utili a prevenire, individuare o accertare eventuali attività di riciclaggio, o di finanziamento del terrorismo, o di proliferazione delle armi di distruzione di massa e a consentire lo svolgimento delle analisi effettuate, nell’ambito delle rispettive attribuzioni, dalla UIF o da altra Autorità competente.
+
+Per documentare e fornire evidenza della collaborazione attiva prestata, il Professionista deve provvedere alla conservazione dei dati, informazioni e documenti acquisiti secondo le modalità prescelte per assicurare la storicità, l’integrità e la completezza del patrimonio informativo acquisito.
+
+Il Professionista potrà effettuare la conservazione in modalità cartacea o in modalità informatica, ovvero secondo una modalità mista (in parte cartacea e in parte informatica). A prescindere dalla modalità prescelta, la conservazione dei documenti, dati e informazioni deve sempre consentire la riconducibilità al cliente e garantire l’esibizione su richiesta delle Autorità preposte ai controlli.
+
+Qualora decida di farsi coadiuvare da terzi nell’attività di conservazione, ovvero di demandarne lo svolgimento, il Professionista avrà cura di individuare i soggetti autorizzati ad accedere e alimentare
+
+15
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+i fascicoli, rammentando che la responsabilità sulla completezza e integrità dei documenti, dati e informazioni contenuti nei fascicoli rimane comunque ascritta al Professionista stesso.
+
+Dal punto di vista operativo, si può ragionevolmente ritenere che elemento sufficiente a garantire un’attività di conservazione conforme al dettato normativo sia l’istituzione di uno o più fascicoli strutturati come segue:
+
+• parte generale (fascicolo trasversale) in cui raccogliere:
+
+\- le risultanze dell’autovalutazione del rischio (modello AV.0 o altro modello equivalente);
+
+\- eventuali attestati della formazione in materia antiriciclaggio svolta dal professionista e/o
+
+dai dipendenti/collaboratori dello studio;
+
+\- la documentazione tecnica a supporto dell’adempimento degli obblighi (ad esempio:
+
+d.lgs. 231/07, Regole Tecniche, indicatori di anomalia, etc.)
+
+• parti specifiche (fascicoli dedicati singolarmente a ciascun cliente) che consentano di ricostruire univocamente la data del conferimento dell’incarico, i dati identificativi del cliente, del titolare effettivo e dell’esecutore, nonché le informazioni sullo scopo e la natura del rapporto o della prestazione e in cui raccogliere:
+
+\- copia dei documenti acquisiti e modulistica7 compilata in occasione dell’adeguata verifica;
+
+\- copia dei documenti eventualmente acquisiti e modulistica compilata in occasione del
+
+controllo costante;
+
+\- work paper/appunti/annotazioni contenenti eventuali valutazioni formulate nel corso del rapporto alla luce di eventuali anomalie riscontrate che non abbiano originato sospetti, con indicazione del processo valutativo svolto per addivenire alla conclusione della non necessarietà della SOS;
+
+\- esclusivamente nei casi in cui il Professionista agisce come mandatario del cliente (con o senza rappresentanza): l’originale, ovvero copia avente efficacia probatoria ai sensi della normativa vigente, delle scritture e registrazioni inerenti alle operazioni effettuate per conto del Cliente da cui sia possibile ricostruire univocamente la data, l’importo e la causale dell’operazione, nonché i mezzi di pagamento utilizzati. Ciò accade quando l’incarico ha ad oggetto la movimentazione o il trasferimento di mezzi di pagamento, oppure la stipulazione di contratti a contenuto patrimoniale in nome o per conto del cliente. In tali casi il Professionista si limita ad agire come intermediario del cliente, utilizzando, a seconda del mandato ricevuto, mezzi propri o fondi messi a disposizione dal cliente per eseguire l’operazione. Tali operazioni devono essere oggetto di adeguata verifica solo se i mezzi di pagamento trasmessi o movimentati sono di importo pari o superiore a 15.000 euro.
+
+Al fine di garantire la storicizzazione dei dati, il Professionista avrà cura di assicurarsi che i documenti siano riconducibili in maniera chiara alla data di acquisizione; potrà, in tal senso, ad esempio apporre la data sul documento acquisito al fascicolo, ovvero datare un prospetto riepilogativo (i.e. Modello AV.2) dei dati presenti nel fascicolo specifico del cliente, elencando i documenti presenti (documento di riconoscimento, visura camerale, scheda attestante l’adeguata verifica effettuata, dichiarazione del
+
+7 Qualora lo ritenga opportuno, il Professionista può avvalersi della modulistica messa a disposizione dal Consiglio Nazionale quale buona prassi operativa per l’espletamento degli adempimenti derivanti dall’assolvimento degli obblighi previsti dal d.lgs. 231/2007.
+
+16
+
+DOCUMENTO Indicazioni operative per la compilazione della modulistica proposta dal CNDCEC per l’adempimento degli obblighi antiriciclaggio ai sensi del d.lgs. n. 231/2007 e delle regole tecniche del 16.01.2025
+
+cliente, etc.).
+
+I documenti, i dati e le informazioni acquisiti sono conservati per un periodo di 10 anni dalla cessazione della prestazione professionale o dall’esecuzione dell’operazione occasionale.
+
+Al fine di individuare la data di cessazione della prestazione professionale o dell’esecuzione dell’operazione occasionale, e al di fuori di un preciso obbligo di legge, nell’ambito dell’organizzazione dello studio potranno essere conservati i seguenti documenti:
+
+• comunicazione al cliente di cessazione del rapporto professionale (ad es. rinuncia all’incarico);
+
+• comunicazione del cliente di cessazione del rapporto professionale (ad es. revoca dell’incarico);
+
+• comunicazione del collega subentrante nella prestazione professionale;
+
+• lettera di consegna della documentazione per la cessazione dell’incarico professionale;
+
+• altro documento in cui si possa individuare la cessazione del rapporto professionale (ad es. documento attestante l’ultimo adempimento inerente all’incarico ricevuto).
+
+17
+
+Consiglio Nazionale dei Dottori Commercialisti e degli Esperti Contabili
+
+Piazza della Repubblica, 59 00185 Roma
+
+[\#5](#5)   
+[\#6](#6)   
+[\#7](#7)   
+[\#7](#7)   
+[\#12](#12)   
+[\#13](#13)   
+[\#16](#16)   
+[\#16](#16)   
+[\#17](#17)   
+[\#17](#17)   
+[\#18](#18)   
+[\#18](#18)   
+[\#19](#19)   
+[\#5](#5)   
+[\#5](#5)   
+[\#7](#7)   
+<https://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/prevenzione_reati_finanziari/prevenzione_reati_finanziari/Sintesi-NRA-ML_TF-versione-finale-clean-rev-1.pdf>   
+<https://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/prevenzione_reati_finanziari/prevenzione_reati_finanziari/Sintesi-NRA-ML_TF-versione-finale-clean-rev-1.pdf>   
+<https://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/prevenzione_reati_finanziari/prevenzione_reati_finanziari/Analisi_rischi-finanziamento_proliferazione-armi-distruzione-massa_2024-.pdf>   
+[\#9](#9)   
+<https://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/prevenzione_reati_finanziari/prevenzione_reati_finanziari/Sintesi-NRA-ML_TF-versione-finale-clean-rev-1.pdf>   
+<https://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/prevenzione_reati_finanziari/prevenzione_reati_finanziari/Analisi_rischi-finanziamento_proliferazione-armi-distruzione-massa_2024-.pdf>   
+<https://www.dt.mef.gov.it/export/sites/sitodt/modules/documenti_it/prevenzione_reati_finanziari/prevenzione_reati_finanziari/Analisi_rischi-finanziamento_proliferazione-armi-distruzione-massa_2024-.pdf>   
+<https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=OJ:L_202501184>   
+<https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R1675-20250805>   
+[\#11](#11)   
+[\#14](#14)   
+[\#20](#20)   

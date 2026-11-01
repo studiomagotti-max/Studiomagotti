@@ -1,0 +1,619 @@
+Regole Tecniche ex art. 11, co. 2 del d.lgs. 231/2007
+
+applicate dagli Iscritti all’Albo dei Dottori Commercialisti e degli Esperti Contabili per ottemperare agli obblighi di valutazione del rischio, adeguata verifica della clientela, conservazione dei documenti, dei dati e delle informazioni
+
+emanate dal CNDCEC con Deliberazione n. 9 del 16 gennaio 2025, previo Parere del Comitato di Sicurezza Finanziaria ricevuto in data 27 dicembre 2024.
+
+Gennaio 2025
+
+Indice
+
+Premessa ........................................................................................................................................................... 3
+
+Glossario ........................................................................................................................................................... 4
+
+1\. Regola tecnica n. 1 – Autovalutazione del rischio (artt. 15 e 16 d.lgs. 231/2007) .................................... 5
+
+2\. Regola tecnica n. 2 - Adeguata verifica della clientela (artt. 17 – 30 d.lgs. 231/2007) ............................. 8
+
+2.1. Valutazione del rischio ......................................................................................................................... 8
+
+2.1.1. Valutazione del rischio inerente ...................................................................................................... 8
+
+2.1.2. Valutazione del rischio specifico ................................................................................................... 14
+
+2.1.3. Determinazione del rischio effettivo ............................................................................................. 15
+
+2.2. Prestazioni professionali .................................................................................................................... 17
+
+2.3. Adeguata verifica ordinaria ............................................................................................................... 17
+
+2.4. Adeguata verifica semplificata .......................................................................................................... 18
+
+2.5. Adeguata verifica rafforzata .............................................................................................................. 19
+
+2.6. Persone politicamente esposte ......................................................................................................... 20
+
+2.7 Titolare effettivo ................................................................................................................................ 20
+
+2.8 Esecuzione dell’obbligo di adeguata verifica mediante ricorso a terzi .............................................. 21
+
+3\. Regola tecnica n. 3 - Conservazione dei dati e delle informazioni (artt. 31, 32 e 34 d.lgs. 231/2007) ... 23
+
+3.1. Conservazione cartacea .................................................................................................................... 24
+
+3.2. Conservazione informatica ................................................................................................................ 24
+
+3.3. Conservazione negli studi associati e nelle società tra professionisti ............................................... 24
+
+2
+
+Premessa
+
+Le presenti Regole Tecniche (RT) sono emanate ai sensi dell’art. 11, co. 2 del d.lgs. 21 novembre 2007 n. 231 (di seguito anche: “decreto antiriciclaggio”), che dispone: “Gli organismi di autoregolamentazione sono responsabili dell’elaborazione e aggiornamento di regole tecniche, adottate in attuazione del presente decreto previo parere del Comitato di sicurezza finanziaria, in materia di procedure e metodologie di analisi e valutazione del rischio di riciclaggio e finanziamento del terrorismo cui i professionisti sono esposti nell’esercizio della propria attività, di controlli interni, di adeguata verifica, anche semplificata della clientela e di conservazione e, anche attraverso le proprie articolazioni territoriali, garantiscono l’adozione di misure idonee a sanzionarne l’inosservanza e sono sentiti dalla UIF ai fini dell’adozione e dell’aggiornamento degli indicatori di anomalia di cui all’articolo 6, co. 4, lettera e) che li riguardino. I predetti organismi e le loro articolazioni territoriali sono altresì responsabili della formazione e dell’aggiornamento dei propri iscritti in materia di politiche e strumenti di prevenzione del riciclaggio e di finanziamento del terrorismo.”
+
+Le regole tecniche sono applicate dagli iscritti all’Albo dei Dottori Commercialisti e degli Esperti Contabili di cui al d.lgs. 28 giugno 2005, n. 139 per l’adempimento dei seguenti obblighi antiriciclaggio:
+
+\- autovalutazione del rischio (artt. 15-16 d.lgs. 231/2007) - adeguata verifica della clientela (artt. 17-30 d.lgs. 231/2007) - conservazione dei documenti, dei dati e delle informazioni (artt. 31, 32 e 34 d.lgs. 231/2007)
+
+Con riferimento agli studi associati e alle società tra professionisti le RT individuano modalità di adeguata verifica e conservazione tali da consentire la gestione in forma accentrata dei relativi adempimenti.
+
+In base all’art. 2, co. 2, d.lgs. 231/2007, le misure antiriciclaggio sono proporzionate al rischio in relazione al tipo di cliente e alla prestazione professionale/rapporto continuativo; la loro applicazione tiene conto della peculiarità dell'attività, delle dimensioni e della complessità proprie dei soggetti obbligati che adempiono agli obblighi previsti a loro carico dal decreto antiriciclaggio, considerando i dati e le informazioni acquisiti o posseduti nell'esercizio della propria attività professionale.
+
+3
+
+Glossario
+
+\- Funzione antiriciclaggio: la funzione organizzativa deputata a definire e gestire le politiche e le procedure interne per la gestione dei rischi di riciclaggio e di finanziamento del terrorismo (FDT)
+
+\- Responsabile antiriciclaggio: il responsabile della funzione antiriciclaggio che ha compiti di supervisione e coordinamento delle politiche e procedure interne per la gestione dei rischi di riciclaggio/FDT e assiste il soggetto obbligato anche al fine di gestire e mitigare il rischio residuo
+
+\- Revisore indipendente: il soggetto incaricato di verificare i controlli e le procedure attuati dal
+
+soggetto obbligato
+
+Ai fini dell’autovalutazione del soggetto obbligato, si intende per:
+
+\- Rischio inerente: il rischio attuale e potenziale cui il soggetto obbligato è esposto in ragione
+
+dell’attività concretamente svolta nel suo complesso
+
+\- Vulnerabilità: l’elemento /gli elementi individuato/i in corrispondenza dell’analisi dell’adeguatezza
+
+dell’assetto organizzativo e dei presidi procedurali e di controllo implementati
+
+\- Rischio residuo: il rischio cui il soggetto obbligato è esposto, tenuto conto del rischio inerente e
+
+della/e vulnerabilità riscontrate, che può essere mitigato con adeguate azioni correttive
+
+Ai fini della adeguata verifica del cliente, s’intende per:
+
+\- Rischio inerente: il rischio connesso all’attività svolta dal professionista considerata per categorie omogenee in termini oggettivi e astratti, individuato in via indicativa nelle tabelle 1 e 2 della Regola Tecnica n. 2
+
+\- Rischio specifico: il rischio riferibile al cliente e alla prestazione professionale per come in concreto
+
+definita in occasione del conferimento dell’incarico
+
+\- Rischio effettivo: il rischio complessivo ponderato risultante dalla valutazione del rischio specifico
+
+connesso al cliente e del rischio inerente connesso alla prestazione professionale
+
+4
+
+1\. Regola tecnica n. 1 – Autovalutazione del rischio
+
+(artt. 15 e 16 d.lgs. 231/2007)
+
+I professionisti obbligati effettuano la autovalutazione del rischio di riciclaggio e/o finanziamento del terrorismo (d’ora in avanti: fdt) connesso alla propria attività professionale e adottano presidi e procedure adeguati alla propria natura e alla propria dimensione per gestire e mitigare i rischi rilevati.
+
+A tal fine, i professionisti valutano il rischio inerente all’attività, inteso quale rischio correlato alla probabilità che l’evento possa verificarsi e alle sue conseguenze, nonché l’adeguatezza dell’assetto organizzativo e dei presidi per l’individuazione di eventuali vulnerabilità, allo scopo di determinare il rischio residuo e adottare procedure per la gestione e la mitigazione del medesimo.
+
+L’autovalutazione del rischio è un adempimento proprio dei professionisti obbligati e non è delegabile; è possibile altresì effettuare l’autovalutazione del rischio in capo all’associazione professionale/STP. La figura del responsabile antiriciclaggio - richiamata nel prosieguo - assiste il professionista (nei casi in cui è prevista la sua individuazione; sul punto cfr. infra) al fine di gestire e mitigare il rischio residuo.
+
+Per la valutazione del rischio inerente i professionisti utilizzano la seguente scala graduata:
+
+Rilevanza valori dell’indicatore di intensità
+
+NON SIGNIFICATIVA 1
+
+POCO SIGNIFICATIVA 2
+
+ABBASTANZA SIGNIFICATIVA 3
+
+MOLTO SIGNIFICATIVA 4
+
+Nella valutazione del rischio inerente i valori sopra riportati devono essere attribuiti a ciascuno dei seguenti fattori di rischio:
+
+1\. tipologia di clientela 2. area geografica di operatività 3. canali distributivi (fattore riferito alla modalità di esplicazione della prestazione professionale, anche tramite collaborazioni esterne, corrispondenze, canali di pagamento, ecc.). Si rileva che, di norma, tale fattore è difficilmente associabile all’attività professionale; per tale motivo, la valutazione del rischio allo stesso correlata assume carattere residuale 4. servizi offerti
+
+La media aritmetica dei punteggi dei singoli fattori di rischio determina il valore del rischio inerente.
+
+L’analisi dell’adeguatezza dell’assetto organizzativo dello studio e dei presidi esistenti consente di individuare eventuali vulnerabilità, ovvero le carenze che permettono che il rischio inerente si concretizzi in fenomeni di riciclaggio/fdt non rilevati.
+
+Il grado di vulnerabilità dello studio professionale nel suo complesso dipende dall’efficacia dei seguenti elementi:
+
+1\. formazione
+
+5
+
+2\. organizzazione degli adempimenti di adeguata verifica della clientela 3. organizzazione degli adempimenti relativi alla conservazione dei documenti, dati e
+
+informazioni 4. organizzazione in materia di segnalazione di operazioni sospette e comunicazione delle violazioni
+
+relative alle norme sull’uso del contante Il grado di vulnerabilità è determinato come media aritmetica dei valori attribuiti, secondo la seguente scala graduata, a ciascuno dei fattori sopra indicati.
+
+Rilevanza Valore numerico
+
+Non significativa per presidi completi e strutturati 1
+
+Poco significativa per presidi ordinari 2
+
+Abbastanza significativa per presidi lacunosi 3
+
+Molto significativa per presidi insufficienti 4
+
+Ai fini della determinazione del rischio residuo si adotta una matrice che prende in considerazione sia i valori del rischio inerente sia quelli della vulnerabilità, basata su una ponderazione del 40% (rischio inerente) e 60% (vulnerabilità), muovendo dal presupposto che la componente di vulnerabilità abbia maggiore rilevanza nel determinare il livello di rischio residuo:
+
+RISCHIO INERENTE (coefficiente di ponderazione=40%)
+
+molto significativo (4) abbastanza significativo (3) poco significativo (2) non significativo (1)
+
+non significativa (1)
+
+poco significativa (2)
+
+abbastanza significativa (3)
+
+molto significativa (4) VULNERABILITÀ (coefficiente di ponderazione=60%)
+
+La somma dei valori ponderati del rischio inerente e della vulnerabilità consente di determinare il livello di rischio residuo secondo la seguente scala graduata:
+
+Somma valori ponderati Rischio residuo
+
+da 1 a \< 1,6 Non significativo da 1,6 a \< 2,6 Poco significativo da 2,6 a \< 3,6 Abbastanza significativo
+
+da 3,6 a \< 4 Molto significativo
+
+6
+
+Stabilito il livello di rischio residuo, il professionista procede ad attivare le eventuali azioni per la gestione ovvero per la mitigazione del medesimo.
+
+A tal fine, tenuto conto delle dimensioni della struttura, del numero dei componenti dello studio (professionisti, collaboratori e dipendenti)1 e del numero delle sedi in cui viene svolta l’attività:
+
+\- nel caso del professionista individuale, anche con dipendenti e/o collaboratori, la funzione antiriciclaggio e il relativo responsabile si intendono coincidenti con il professionista medesimo, ove non diversamente formalizzato, ferma restando anche in tale ultima ipotesi la responsabilità del professionista per l’adempimento degli obblighi antiriciclaggio; - nel caso di associazioni professionali, ovvero società tra professionisti, occorre introdurre la funzione antiriciclaggio e nominare il relativo responsabile, a meno che nell’ambito dello studio gli adempimenti antiriciclaggio non siano assolti individualmente da ciascuno dei professionisti; - nel caso di associazioni professionali, ovvero società tra professionisti con più di 30 professionisti e più di 30 collaboratori (una sede o più), occorre introdurre anche una funzione di revisione indipendente per la verifica dei presidi di controllo. La predetta soglia va individuata con riferimento al 31 dicembre dell’anno precedente. Nell’ambito dei presidi per la gestione e la mitigazione del rischio rileva, altresì, la formazione del personale con carattere di programmazione e permanenza.
+
+I neo iscritti, soggetti agli obblighi antiriciclaggio, effettuano la prima autovalutazione del rischio entro il 31 dicembre dell’anno successivo a quello di inizio dell’attività professionale.
+
+I professionisti aggiornano l’autovalutazione del rischio ogni qualvolta lo ritengono opportuno in ragione di sopravvenuti rilevanti mutamenti dei parametri sopra considerati e, in ogni caso, entro un anno dalla pubblicazione dell’aggiornamento periodico dell'Analisi nazionale dei rischi di riciclaggio e finanziamento del terrorismo a cura del Comitato di Sicurezza Finanziaria (CSF).
+
+L’autovalutazione deve essere documentata e messa a disposizione delle Autorità di cui all’art. 21, co. 2, lett. a), del d.lgs. 231/2007 e degli organismi di autoregolamentazione.
+
+1 Per professionisti si intendono gli iscritti all’albo (individuali, associazioni, STP) con partita iva/codice fiscale autonomi; tra i collaboratori rientrano anche i tirocinanti.
+
+7
+
+2\. Regola tecnica n. 2 - Adeguata verifica della clientela
+
+(artt. 17 – 30 d.lgs. 231/2007)
+
+2.1. Valutazione del rischio
+
+2.1.1. Valutazione del rischio inerente
+
+Quale attività propedeutica alla elaborazione delle regole tecniche in materia di adeguata verifica della clientela, il CNDCEC ha provveduto ad effettuare l’analisi e la valutazione del rischio di riciclaggio e finanziamento del terrorismo inerente alle attività professionali, nel rispetto dell’approccio basato sul rischio normativamente previsto.
+
+L’analisi effettuata porta alla classificazione delle prestazioni professionali in attività il cui rischio inerente, inteso come rischio proprio delle attività svolte dal professionista, considerate per categorie omogenee, in termini oggettivi ed astratti, è non significativo, poco significativo, abbastanza significativo e molto significativo.
+
+La seguente elencazione potrà essere modificata nel corso del tempo in relazione alla evoluzione normativa. In ogni caso la casistica ivi indicata deve considerarsi estesa ad ogni modifica e/o integrazione di legge che dovesse intervenire nella normativa richiamata.
+
+Resta inteso che la rilevazione di un rischio non significativo si pone a valle di un processo di valutazione che, seppur non formalizzato, dovrà comunque essere svolto dal professionista, in quanto la normativa vigente esclude la possibilità di individuare in via automatica e preventiva fattispecie rispetto alle quali possa operare una presunzione di assenza di rischio di riciclaggio (art. 17, co. 3, del d.lgs. 231/2007).
+
+Inoltre, ai sensi del medesimo art. 17, co. 3, del d.lgs. 231/2007 le misure di adeguata verifica adottate sono proporzionate al rischio rilevato e basate su informazioni aggiornate ai sensi dell’art. 18, co. 1, lett. d), del medesimo d.lgs. 231/2007.
+
+L’art. 17, co. 7, d.lgs. 231/2007, stabilisce, altresì, che gli obblighi di adeguata verifica della clientela non si osservano in relazione allo svolgimento dell'attività di mera redazione e trasmissione, ovvero di sola trasmissione, delle dichiarazioni derivanti da obblighi fiscali e degli adempimenti in materia di amministrazione del personale di cui all'art. 2, co. 1, della legge 11 gennaio 1979, n. 12. Nell’esclusione rientrano tutte le attività, anche prodromiche, legate alla redazione e trasmissione delle dichiarazioni derivanti da obblighi fiscali, nonché gli ulteriori adempimenti tributari connessi, come ad esempio la trasmissione dei modelli F24. Pertanto, salvo diverse fattispecie specifiche, sono da considerare a rischio non significativo le prestazioni evidenziate nella tabella seguente poiché merita di essere valorizzata l’incidenza, relativamente ad esse, di presidi di mitigazione del rischio derivanti dall’osservanza di norme e obblighi di condotta, previsti a garanzia del trasparente e corretto operato del professionista nello svolgimento di procedure o nell’espletamento di uffici e funzioni che l’ordinamento vigente richiede siano espletati dal professionista medesimo, in funzione della sua specifica expertise.
+
+8
+
+Tabella 1: prestazioni a rischio inerente non significativo
+
+PRESTAZIONI A RISCHIO INERENTE NON SIGNIFICATIVO (grado di intensità 1) 1. Collegio sindacale Con riferimento alle funzioni di componente di collegio sindacale/sindaco unico senza funzioni di revisione legale dei conti in società non coincidenti con soggetti obbligati, sussistono almeno quattro ordini di ragioni per ritenere che il rischio inerente connesso alle funzioni di sindaco sia non significativo:
+
+\- dal momento della nomina il sindaco non svolge una funzione professionale, ma diviene organo endosocietario. Nessuna “prestazione professionale intellettuale o commerciale” esterna, rilevante ai fini antiriciclaggio, può quindi essere configurata nel ruolo di sindaco privo di funzioni di revisione;
+
+\- le funzioni di controllo antiriciclaggio vengono svolte per espressa previsione normativa dalla società di revisione, dal revisore esterno o dai sindaci con funzione di revisione legale dei conti quando ad essi venga delegata detta specifica funzione. In relazione al fatto che la funzione sindacale presuppone sempre nella S.p.A., nelle S.r.l. o nelle cooperative la presenza di uno o più revisori, la funzione di controllo antiriciclaggio sarebbe indubbiamente duplicata;
+
+\- i sindaci senza funzione di revisione legale dei conti, non monitorando di norma la documentazione contabile, né la gestione di cassa della società, non potrebbero svolgere i controlli sulle irregolarità di cui all’art. 49 (Limitazioni all’uso del contante e dei titoli al portatore) e quindi provvedere alle conseguenti eventuali comunicazioni di irregolarità al MEF di cui all’art. 51 del decreto antiriciclaggio;
+
+\- nei collegi sindacali non è richiesto che tutti i componenti siano iscritti negli Albi dei Dottori Commercialisti e degli Esperti Contabili, Avvocati e Consulenti del lavoro o nel Registro dei Revisori legali. L’art. 2397 c.c., infatti, prevede che ben possano essere eletti (se il collegio non svolge funzione di revisione legale dei conti) anche docenti universitari di ruolo in materie economiche e giuridiche, che in primo luogo possono non essere professionisti e in secondo luogo, anche se abilitati, possono non essere iscritti all’Albo e quindi non esercitare la professione. Ne deriva che, qualora gli adempimenti antiriciclaggio fossero richiesti ai sindaci senza funzione di revisione legale dei conti, essi dovrebbero essere espletati o meno a seconda della posizione soggettiva del singolo membro dell’organo di controllo, il che sembra illogico e difficilmente giustificabile.
+
+Ai componenti del collegio sindacale deve ritenersi equiparata la posizione dei componenti dei consigli di sorveglianza ex art. 2409-duodecies c.c.
+
+Regola di condotta ai fini della adeguata verifica: il componente del collegio sindacale senza funzione di revisione legale dei conti in società non coincidenti con soggetti obbligati si limita ad acquisire e conservare copia del verbale di nomina. L’adeguata verifica resta dovuta sia nel caso di collegio sindacale delegato ad assolvere anche funzioni di revisione in capo a ciascuno dei membri componenti il collegio, sia nel caso di sindaco unico con funzione di revisione, eletto sulla base dei parametri dell’art. 2477 c.c. A prescindere dallo svolgimento della funzione di revisione, permane inoltre in capo a ciascun membro del collegio sindacale l’obbligo di segnalazione di eventuali operazioni sospette.
+
+2\. Apposizione del visto di conformità su dichiarazioni fiscali Il professionista attesta la rispondenza dei dati indicati nella dichiarazione (IVA, Redditi, IRAP, 770) agli elementi registrati nella contabilità. Se il professionista tiene anche la contabilità del soggetto interessato, gli obblighi antiriciclaggio sussistono a prescindere e, di conseguenza, non sembra necessaria una duplicazione degli adempimenti ad esso riferiti per il solo fatto dell’assunzione dell’incarico di apposizione del visto.
+
+9
+
+PRESTAZIONI A RISCHIO INERENTE NON SIGNIFICATIVO (grado di intensità 1) Viceversa, il professionista che appone il visto, non essendo depositario delle scritture contabili, effettua una prestazione professionale con rischio di gran lunga inferiore e pertanto non è da ritenersi destinatario degli adempimenti antiriciclaggio che coinvolgono il depositario delle scritture. In tal caso, infatti, il professionista che appone (o nega) il visto effettua esclusivamente un controllo di carattere campionario sulla conformità formale e di corrispondenza dei dati contenuti nei documenti contabili e in quelli fiscali: non entra nel merito delle operazioni poste in essere dall’impresa, come invece fa necessariamente il professionista che si occupa della contabilità e che registra quotidianamente i fatti aziendali, spesso venendo coinvolto anche in via preventiva. Quest’ultimo ha una visione complessiva del proprio cliente che manca al professionista chiamato ad apporre esclusivamente il visto.
+
+Regola di condotta ai fini della adeguata verifica: il professionista acquisisce copia del documento di identità del cliente, da conservare nel fascicolo intestato al cliente.
+
+3\. Predisposizione di interpelli con richiesta di chiarimenti interpretativi circa l’applicazione di
+
+norme, ancorché contestualizzati a casi concreti con inoltro a Ministeri e Agenzie fiscali Si tratta di interpelli presentati sempre in via preventiva, che illustrano analiticamente a soggetti pubblici (Ministero delle imprese e del made in Italy, Ministero del lavoro, Agenzie fiscali, ecc.) un caso concreto al quale risponde l’Amministrazione finanziaria o il Ministero.
+
+Regola di condotta ai fini della adeguata verifica: il professionista acquisisce copia del documento di identità del cliente, da conservare nel fascicolo intestato al cliente.
+
+4\. Risposte a quesiti di carattere fiscale e societario con cui si chiede quale sia la corretta soluzione in base a norme di legge della fattispecie prospettata. Il quesito può essere astratto o contestualizzato con dati oggettivi (anagrafici e di valore). Pareri pro-veritate. Si tratta di quesiti la cui risposta può riguardare, ad esempio, il mero inquadramento dell’operazione dal punto di vista della corretta normativa da applicare, ovvero l’analisi della soluzione prospettata dal soggetto che ha posto il quesito al fine di verificarne la rispondenza a norma di legge o a prassi. Di fatto la risposta al quesito non conduce alla conoscenza di operazioni già realizzate (e che peraltro potrebbero anche non realizzarsi mai); con la redazione del parere non si prende in alcun modo parte all’operazione e, in alcuni casi, non si viene nemmeno a conoscenza dei valori della stessa e dei dati anagrafici dei soggetti coinvolti.
+
+Regola di condotta ai fini della adeguata verifica: fermi gli adempimenti prescritti dalla vigente normativa civilistica, sostanziale e processuale, il professionista acquisisce copia del documento di identità del cliente, da conservare nel fascicolo intestato al cliente.
+
+5\. Consulente tecnico di parte Si tratta di incarichi per redazioni di stime e perizie di parte in ogni tipo di ambito giurisdizionale. In questi casi, in capo al cliente sussistono le prerogative del diritto costituzionale della difesa, prevalenti su ogni norma ordinaria di legge.
+
+Regola di condotta ai fini della adeguata verifica: il professionista incaricato acquisisce e conserva copia del mandato professionale ricevuto.
+
+6\. Funzioni di assistenza, difesa e rappresentanza innanzi ad una Autorità Giudiziale Rientrano in tale ambito, ad esempio, le prestazioni professionali di assistenza nei confronti del debitore in funzione e in occasione di procedure concorsuali, quando innanzi a un’autorità giudiziaria, ovvero le prestazioni di difesa dinanzi alle Corti di giustizia tributaria. In tali ipotesi le informazioni sul cliente risultanti dal mandato professionale soddisfano le esigenze connesse all’espletamento degli obblighi di adeguata verifica.
+
+10
+
+PRESTAZIONI A RISCHIO INERENTE NON SIGNIFICATIVO (grado di intensità 1) Regola di condotta ai fini della adeguata verifica: il professionista incaricato acquisisce e conserva copia del mandato professionale ricevuto.
+
+7\. Funzioni di mediazione e arbitrato Si tratta di incarichi professionali aventi ad oggetto la risoluzione di controversie secondo modalità alternative al ricorso all’autorità giudiziale. In tali ipotesi le informazioni sul cliente risultanti dal mandato professionale soddisfano le esigenze connesse all’espletamento degli obblighi di adeguata verifica.
+
+Regola di condotta ai fini della adeguata verifica: il professionista incaricato acquisisce e conserva copia del mandato professionale ricevuto.
+
+8\. Incarichi che derivano da nomine giurisdizionali per le quali il professionista si interfaccia con
+
+l’autorità che ha provveduto alla nomina Si tratta di incarichi assegnati al professionista da ogni tipo di autorità giurisdizionale italiana (ad esempio, in ambito civile, penale, amministrativo, tributario). In tale contesto, si annoverano, ad esempio, le funzioni di:
+
+\- curatore, commissario giudiziale, liquidatore giudiziale, gestore della crisi (di nomina giudiziale)
+
+nelle procedure concorsuali - liquidatore di società nominato dal tribunale (ex art. 2487 c.c.) - amministratore giudiziario - commissario giudiziale nelle amministrazioni straordinarie - ausiliario del giudice incaricato di perizie e consulenze tecniche (CTU) su incarico dell’autorità
+
+giurisdizionale - amministratore di sostegno ovvero assistente nella redazione/controllo delle gestioni connesse alle
+
+amministrazioni di sostegno - delegato alle operazioni di vendita di beni mobili registrati e immobili, fermo restando quanto disposto dall’art. 585, co. 4, c.p.c. (applicabile anche in caso di vendita posta in essere nell’esercizio delle funzioni di curatore o di liquidatore giudiziale) - custode giudiziale di beni ed aziende In tali incarichi il professionista, nelle relazioni tecniche all’autorità giurisdizionale, evidenzia anche le eventuali irregolarità riscontrate sia a livello civile che penale (ad esempio nelle curatele, ovvero negli incarichi di amministrazione giudiziale) e, quindi, anche le eventuali anomalie ai fini della possibile sussistenza di reati di riciclaggio e di finanziamento al terrorismo (a tal fine, si ha riguardo anche alle ipotesi di vendita di beni mobili o di crediti nonché di subentro in azioni giudiziarie, in cui non è tra l’altro necessario l’intervento del notaio e non trova applicazione il sopra richiamato art. 585, co. 4, c.p.c.). In altre situazioni (ad esempio custode giudiziale di beni e aziende, amministratore giudiziario) il professionista è egli stesso amministratore dei beni, mentre nelle perizie di stima di valore non ha in genere possibilità di valutazione in merito al cliente e si limita alla valutazione economica di un bene o di una azienda. Restano ferme le avvertenze relative alla valutazione del rischio specifico in concreto rilevato dal professionista.
+
+Regola di condotta ai fini della adeguata verifica: attesa la particolare natura degli incarichi conferiti dall’autorità giudiziaria e gli obblighi già prescritti dalla normativa di riferimento, il professionista incaricato acquisisce e conserva una copia della nomina da parte dell’autorità giudiziaria.
+
+9\. Incarichi di gestore della crisi e di esperto indipendente nell’ambito della composizione della
+
+crisi Si tratta di incarichi previsti dal Codice della crisi d’impresa e dell’insolvenza (CCII), ossia:
+
+\- gestore della crisi nominato dall’OCC – Il professionista gestore della crisi è nominato dall’OCC che, ai sensi dell’art. 65, co. 3, CCII svolge i compiti del commissario giudiziale o del liquidatore nelle procedure di ristrutturazione dei debiti. Il professionista è nominato dal Tribunale: i) in caso
+
+11
+
+PRESTAZIONI A RISCHIO INERENTE NON SIGNIFICATIVO (grado di intensità 1) di mancata costituzione dell’OCC (artt. 68, co. 1, e 76, co. 1, CCII); ii) in caso di liquidazione controllata del sovraindebitato (art. 270, co. 1, lett. b) CCII); - esperto indipendente ex artt. 12 e seguenti del CCII - L’esperto indipendente è “il soggetto terzo e indipendente, iscritto nell’elenco di cui all’art. 13 comma 3 e nominato dalla commissione di cui al comma 6 del medesimo articolo 13, che facilita le trattative nell’ambito della composizione negoziata” (art. 2, co. 1, lett. o-bis), CCII). Ai sensi dell’art. 13, co. 6, CCII, la nomina dell’esperto avviene ad opera di una commissione costituita presso la Camera di Commercio dei capoluoghi di regione e delle province autonome. L’intervento del Tribunale riguarda soltanto l’ipotesi in cui il debitore chieda l’applicazione di misure protettive e cautelari ai sensi degli artt. 18 e 19 CCII. In tali incarichi il professionista, ancorché non designato direttamente dall’autorità giudiziale, si rapporta costantemente con quest’ultima in relazione a tutti i passaggi fondamentali degli istituti previsti dal CCII: si pensi, ad esempio, alla predisposizione della relazione che accompagna il ricorso del debitore per l’apertura di una liquidazione controllata, oppure alla redazione da parte dell’esperto indipendente del parere al magistrato competente a giudicare la concessione o meno delle misure protettive nella composizione negoziata della crisi.
+
+Regola di condotta ai fini della adeguata verifica: attesa la particolare natura degli incarichi conferiti, il professionista incaricato acquisisce e conserva una copia della nomina assegnata.
+
+10\. Incarichi professionali nel settore della formazione e dell’editoria
+
+\- attività di docenza (in presenza e da remoto) - elaborazione di monografie, articoli e altri contributi editoriali (cartacei e sul web) - risposte a quesiti nell’ambito di rubriche tematiche su riviste periodiche, banche dati,
+
+portali web Si tratta di tipiche e pure prestazioni intellettuali svolte da professionisti, in relazione alle quali è assente ogni risvolto patrimoniale e finanziario (e quindi viene meno ogni ragione di un monitoraggio ai fini antiriciclaggio). Tali attività non consentono in alcun modo al professionista di entrare nel merito delle operazioni svolte dal committente, che in termini tecnici non rappresenta un “cliente” del professionista; esse comportano lo svolgimento di prestazioni a carattere didattico e/o divulgativo rivolte a terzi (discenti o lettori) che in nessun modo possono essere annoverati fra i clienti del professionista; né, ai fini antiriciclaggio, “cliente” può essere l’editore o la società di formazione committenti con cui, di norma, il professionista non instaura alcun rapporto professionale, svolgendo solo una prestazione scientifico/didattica, ovvero limitata alla valutazione dell’argomento dell’articolo o dell’oggetto della divulgazione orale.
+
+Regola di condotta ai fini della adeguata verifica: il professionista acquisisce e conserva una copia dell’incarico professionale.
+
+11\. Componente di organismo di vigilanza ex d.lgs.231/2001 (OdV) L’OdV costituisce un elemento essenziale del modello di organizzazione, gestione e controllo, essendo deputato a verificarne la corretta attuazione e l’adeguatezza al fine di prevenire la commissione dei reati e le relative responsabilità ai sensi del d.lgs. 231/2001 (recante la disciplina della responsabilità amministrativa delle persone giuridiche). Nelle funzioni svolte dal componente di un OdV non è dato ravvisare qualsivoglia prestazione professionale con risvolti economico-finanziari-patrimoniali e, dunque, non vi è ragione per ritenere fondata in capo a quest’ultimo la sussistenza di obblighi di monitoraggio ai fini antiriciclaggio. Peraltro, gli OdV sono sempre a composizione variabile con componenti esterni o interni agli enti. Nel dettaglio possono esserne parte tanto professionisti quanto soggetti non iscritti in Albi, ma in possesso di specifiche competenze tecniche (esperti in materia di sicurezza, qualità, ambiente, ecc.), ovvero funzioni
+
+12
+
+PRESTAZIONI A RISCHIO INERENTE NON SIGNIFICATIVO (grado di intensità 1) interne dell’ente (internal audit, compliance). Di conseguenza, parrebbe illogico e non conforme alla disciplina vigente ipotizzare che nell’ambito di un medesimo OdV possano esservi componenti soggetti agli obblighi antiriciclaggio (i commercialisti) e altri esclusi (si pensi agli avvocati, la cui prestazione non rientrerebbe tra quelle indicate all’art. 3, co. 4, lett. c), del d.lgs. 231/2007).
+
+Regola di condotta ai fini della adeguata verifica: il professionista acquisisce una copia della delibera del CdA/determina dell’amministratore unico, ovvero del verbale assembleare di nomina, da conservare nel fascicolo intestato all’ ente che ne ha deliberato la nomina.
+
+12\. Predisposizione e/o invio telematico di pratiche varie agli uffici pubblici competenti (ad es.
+
+Registro delle Imprese) Si tratta di mere funzioni operative di carattere telematico che non consentono alcuna valutazione in merito alle operazioni del cliente. Si citano, a titolo esemplificativo, le seguenti attività: il deposito del fascicolo di bilancio, le comunicazioni effettuate attraverso l’utilizzo del sistema COMUNICA (compresa la comunicazione del titolare effettivo), la mera registrazione di atti e contratti (ad esempio contratti di locazione), la compilazione di questionari, dichiarazioni, istanze, raccolte e l’invio di dati verso Enti/Autorità Pubbliche (ad esempio CCIAA/Registro Imprese, Ministeri, Agenzia Entrate, Anagrafe Rapporti, Enti territoriali quali Regioni/Provincie/Comuni, Banca d’Italia, ISTAT, Enti previdenziali e Assistenziali, ecc.).
+
+Regola di condotta ai fini della adeguata verifica: la fattispecie presenta caratteristiche del tutto analoghe alle prestazioni peraltro già considerate esenti ex art. 17, co. 7, d.lgs. 231/2007 aventi ad oggetto le attività di redazione e trasmissione di dichiarazioni derivanti da obblighi fiscali e, quindi, non è richiesto alcun adempimento.
+
+13\. Predisposizione presso gli uffici pubblici competenti (SIAE, Ministeri competenti, CCIAA ecc.) di pratiche di prima iscrizione e rinnovo per la tutela di diritti (marchi, diritti di privativa, brevetti, software) Si tratta di meri adempimenti burocratici per la registrazione di opere frutto dell’ingegno che non riguardano movimentazioni finanziarie o evidenza di patrimoni.
+
+Regola di condotta ai fini della adeguata verifica: il professionista acquisisce copia del documento di identità del cliente, da conservare nel fascicolo intestato al cliente.
+
+14\. Attività di assistenza tecnica e consulenza specialistica alla programmazione, gestione, attuazione, rendicontazione, monitoraggio, controllo, valutazione e supporto alla certificazione di risorse pubbliche, anche europee, nonché per l’esercizio e lo sviluppo della Funzione di Sorveglianza e Audit dei Programmi
+
+Si tratta di tipiche e pure prestazioni intellettuali svolte da professionisti in favore delle Pubbliche Amministrazioni che gestiscono risorse pubbliche, anche europee, sulla base di specifico incarico instaurabile o direttamente con la PA, o con società di cui la PA è la Committente. Tali attività consistono esclusivamente nello svolgimento di prestazioni a carattere consulenziale (pareri, supporto alla definizione di atti amministrativi, controllo sulla spesa dei beneficiari dei fondi) in favore della PA committente e, ai fini antiriciclaggio, non comportano l’instaurazione di alcun rapporto professionale con il beneficiario delle risorse pubbliche, né in alcun caso hanno ad oggetto negozi di natura economico patrimoniale relativi al Cliente (PA o Società che per il tramite del professionista incaricato eroga il servizio alla PA).
+
+Regola di condotta ai fini della adeguata verifica: il professionista acquisisce e conserva una copia dell’incarico professionale, fermo restando l’obbligo a suo carico di segnalazione di eventuali operazioni sospette.
+
+13
+
+Tabella 2: prestazioni a rischio inerente poco significativo, abbastanza significativo o molto significativo
+
+PRESTAZIONI PROFESSIONALI A RISCHIO INERENTE POCO SIGNIFICATIVO (grado di intensità 2) Amministrazione e liquidazione di società, enti, aziende, patrimoni, singoli beni (incarichi di nomina non giudiziale) Consulenza in materia tributaria Consulenza contrattuale Custodia e conservazione di beni e aziende (incarichi di nomina non giudiziale) Valutazione di quote sociali, aziende, rami d'azienda, patrimoni, singoli beni e diritti (non rientranti in incarichi di CTP)
+
+PRESTAZIONI PROFESSIONALI A RISCHIO INERENTE ABBASTANZA SIGNIFICATIVO (grado di intensità 3) Amministrazione di trust o istituti giuridici affini Assistenza e consulenza aziendale e societaria continuativa e generica Attività di valutazione tecnica dell'iniziativa di impresa e di asseverazione dei business plan per l'accesso a finanziamenti pubblici Consulenza economico-finanziaria-patrimoniale Costituzione di enti, trust o strutture analoghe Tenuta della contabilità Consulenza in materia di redazione del bilancio Revisione legale dei conti PRESTAZIONI PROFESSIONALI A RISCHIO INERENTE
+
+MOLTO SIGNIFICATIVO (grado di intensità 4) Consulenza in operazioni di finanza straordinaria
+
+2.1.2. Valutazione del rischio specifico
+
+Il professionista deve valutare il rischio specifico di riciclaggio/fdt con riferimento al cliente e alla prestazione professionale concretamente resa (art. 17, co. 3, d.lgs. 231/2007), attribuendo i seguenti punteggi al cliente e alla prestazione e mediando i risultati in modo da ottenere il valore del rischio specifico ricompreso nell’intervallo da 1 a 4:
+
+1 = non significativo 2 = poco significativo 3 = abbastanza significativo 4 = molto significativo
+
+A. Aspetti connessi al cliente Livello di rischio specifico
+
+(da 1 a 4)
+
+Natura giuridica
+
+Prevalente attività svolta
+
+Comportamento tenuto al momento del conferimento dell’incarico Area geografica di residenza o sede del cliente o della controparte
+
+14
+
+B. Aspetti connessi alla prestazione professionale Livello di rischio specifico
+
+(da 1 a 4) Tipologia
+
+Modalità di svolgimento
+
+Ammontare dell’operazione Frequenza e volume delle operazioni/durata della prestazione professionale Ragionevolezza
+
+Area geografica di destinazione
+
+Calcolo del rischio specifico
+
+Il livello di rischio specifico si ottiene calcolando la media aritmetica semplice dei punteggi assegnati nella tabella A e nella tabella B:
+
+\- rischio specifico cliente: somma punteggi tabella A - rischio specifico prestazione: somma punteggi tabella B - rischio specifico complessivo: somma dei valori delle tabelle (A + B) diviso dieci
+
+Con riferimento ad alcune prestazioni professionali quali revisione legale dei conti, tenuta della contabilità, assistenza e consulenza continuativa generica in ambito contabile e fiscale, la tabella B non deve essere compilata, attesa la tipologia dei dati richiesti nella stessa. Ne consegue che in relazione a dette prestazioni il rischio specifico si ottiene sommando i punteggi della tabella A e dividendo per quattro.
+
+Attribuzione del rischio specifico (tab. C)
+
+Valori Rischio specifico da 1 a \< 1,6 Non significativo da 1,6 a \< 2,6 Poco significativo da 2,6 a \< 3,6 Abbastanza significativo da 3,6 a 4,0 Molto significativo
+
+2.1.3. Determinazione del rischio effettivo
+
+Dalla interrelazione tra il livello di rischio inerente (tabella 2) e quello di rischio specifico (tabelle A e B) si ottiene il livello di rischio effettivo, la determinazione del quale avviene mediante l’adozione di una matrice che prende in considerazione sia i valori del rischio inerente sia quelli del rischio specifico, basati su una ponderazione del 30% (rischio inerente) e 70% (rischio specifico), muovendo dal presupposto che quest’ultimo abbia più rilevanza nel determinare il livello di rischio effettivo.
+
+15
+
+molto significativo (4)
+
+RISCHIO SPECIFICO (coefficiente di ponderazione = 70%)
+
+Attribuzione del rischio effettivo (tab. D)
+
+Somma valori ponderati Rischio effettivo da 1 a \< 1,6 Non significativo da 1,6 a \< 2,6 Poco significativo da 2,6 a \< 3,6 Abbastanza significativo da 3,6 a 4,0 Molto significativo
+
+Sulla base del livello di rischio effettivo determinato, il professionista dovrà adempiere agli obblighi di adeguata verifica secondo la misura rappresentata nella seguente scala graduata:
+
+Grado di rischio Misure di adeguata verifica
+
+Non significativo Per i casi di cui alla Tabella 1: regole di condotta
+
+Per tutti gli altri casi: Semplificate
+
+Poco significativo Semplificate
+
+Abbastanza significativo Ordinarie
+
+Molto significativo Rafforzate
+
+RISCHIO INERENTE (coefficiente di ponderazione = 30%)
+
+Molto significativo (4) abbastanza significativo (3) poco significativo (2) non significativo (1)
+
+non significativo (1)
+
+poco significativo (2)
+
+abbastanza significativo (3)
+
+16
+
+2.2. Prestazioni professionali
+
+Con riguardo alle prestazioni professionali l’adeguata verifica deve essere effettuata:
+
+\- per le prestazioni professionali continuative, che hanno “una certa durata”, come indicato all’art. 1, co. 2, lett. gg), del d.lgs. 231/2007, si articolano necessariamente in molteplici singole attività e comportano l’instaurazione di un rapporto continuativo con il cliente; - per le prestazioni professionali occasionali.
+
+Resta fermo che, ove non sia chiaramente identificabile il valore della prestazione professionale, l’obbligo di adeguata verifica dovrà comunque essere adempiuto.
+
+2.3. Adeguata verifica ordinaria
+
+Delimitazione dell’obbligo di adeguata verifica Quando l’oggetto della prestazione coinvolge più parti, l’obbligo di adeguata verifica è espletato nei confronti del cliente che conferisce l’incarico per l’esecuzione della prestazione professionale e comporta l’identificazione e la verifica dell’identità del cliente e/o dell’esecutore, nonché del titolare effettivo. La dichiarazione resa per iscritto dal cliente ai sensi dell’art. 22, co. 1, si presume veritiera in relazione ai dati e alle informazioni fornite.
+
+Identificazione a distanza L’obbligo di identificazione si considera assolto anche senza la presenza fisica del cliente nei casi previsti dall’art. 19, co. 1, lett. a), ovvero per i clienti:
+
+1\) i cui dati identificativi risultino da atti pubblici, da scritture private autenticate o da certificati qualificati utilizzati per la generazione di una firma digitale associata a documenti informatici (art. 24 d.lgs. 82/ 2005); 2) in possesso di un’identità digitale, con livello di garanzia almeno significativo (art. 64 d.lgs. 82/2005), nonché di un’identità digitale con livello di garanzia almeno significativo, rilasciata nell'ambito di un regime di identificazione elettronica compreso nell'elenco pubblicato dalla Commissione europea ai sensi dell’art. 9 del Reg. UE n. 910/2014, o di un certificato per la generazione di firma elettronica qualificata o, infine, identificati per mezzo di procedure di identificazione elettronica sicure e regolamentate ovvero autorizzate o riconosciute dall’Agenzia per l’Italia digitale; 3) i cui dati identificativi risultino da dichiarazione della rappresentanza e dell'autorità consolare italiana
+
+(art. 6 d.lgs. 153/1997); 4) che siano già stati identificati dal soggetto obbligato in relazione ad un altro rapporto o prestazione professionale in essere, purché le informazioni esistenti siano aggiornate e adeguate rispetto allo specifico profilo di rischio del cliente. Gli ulteriori casi previsti dalla norma citata non rientrano frequentemente nella casistica di interesse per i professionisti.
+
+Identificazione negli studi associati e nelle società tra professionisti Per gli incarichi concernenti uno studio associato o una società tra professionisti, l’identificazione del cliente, dell’esecutore e del titolare effettivo è svolta dal professionista incaricato dello svolgimento della prestazione, che ne è responsabile. Gli adempimenti amministrativi inerenti all’identificazione possono essere delegati anche ai dipendenti e ai collaboratori dello studio associato/società tra professionisti.
+
+17
+
+Per successivi incarichi professionali conferiti dal medesimo cliente allo studio associato/società tra professionisti, l’identificazione può essere assolta ai sensi dell’art. 19, co. 1, lett. a), n. 4) del d.lgs. 231/2007.
+
+Rimangono a carico del professionista di volta in volta interessato le seguenti attività:
+
+\- acquisizione di informazioni su scopo e natura della prestazione professionale, in quanto si tratta
+
+necessariamente di dati specifici per ciascuna di esse; - valutazione del rischio, che potrà essere eventualmente integrata dalla disponibilità delle valutazioni
+
+effettuate dagli altri professionisti associati/soci e dall’eventuale confronto con questi; - esecuzione del controllo costante, dovuto nel caso di prestazione professionale continuativa, con
+
+possibilità di ripartire le attività tra i professionisti/soci interessati.
+
+In alternativa all’operatività sopra indicata permane, in relazione alla organizzazione adottata da ciascuno studio professionale, la possibilità che ogni professionista assolva singolarmente e autonomamente tutti gli adempimenti previsti.
+
+2.4. Adeguata verifica semplificata
+
+In tema di adeguata verifica semplificata, tenuto conto:
+
+\- che i soggetti obbligati possono applicare le misure semplificate di adeguata verifica del cliente ogni
+
+qualvolta si è in presenza di un basso rischio di riciclaggio e finanziamento del terrorismo;
+
+\- che l’estensione dell’adeguata verifica va commisurata al rischio in concreto rilevato dal professionista
+
+sulla base degli indici di cui all’art. 23, co. 1 e 2, del d.lgs. 231/2007; - che sono identificate nell’ambito degli indici di basso rischio relativi a tipologie di clienti:
+
+1\) le società ammesse alla quotazione su un mercato regolamentato e sottoposte ad obblighi di
+
+comunicazione che impongono di assicurare una adeguata trasparenza sulla titolarità effettiva; 2) le pubbliche amministrazioni, ovvero istituzioni od organismi che svolgono funzioni pubbliche
+
+conformemente al diritto dell’Unione europea; 3) i clienti che sono registrati, residenti o stabiliti in aree geografiche a basso rischio, ai sensi della
+
+lettera c) dell’art. 23 del decreto stesso; devono considerarsi, altresì, a basso rischio di riciclaggio:
+
+4\) i soggetti sottoposti a vigilanza ai sensi del d.lgs. 1° settembre 1993, n. 385, del d.lgs. 24 febbraio
+
+1998, n. 58 e del d.lgs. 7 settembre 2005, n. 209; Rimane, in ogni caso, fermo il dovere per i soggetti obbligati di compiere una valutazione – seppure non formalizzata – del rischio in concreto rilevato, con riferimento a tutti gli elementi oggettivi e soggettivi della prestazione professionale/operazione. Nei confronti di tali soggetti, ove dalla valutazione emerga in concreto un basso rischio di riciclaggio, è possibile applicare misure semplificate di adeguata verifica della clientela.
+
+Le misure semplificate consistono:
+
+\- nell’identificazione del cliente, dell’esecutore e del legale rappresentante mediante acquisizione della dichiarazione resa ai sensi dell’art. 22 del d.lgs. 231/2007, ferma restando la necessità di acquisire la copia del documento di identità del cliente;
+
+\- nell’identificazione del titolare effettivo mediante acquisizione della dichiarazione resa dal cliente ai
+
+sensi dell’art. 22 del d.lgs. 231/2007;
+
+18
+
+\- nel controllo costante, con cadenza maggiormente dilazionata nel tempo (ad es. cadenza triennale per i rapporti continuativi), essendo sufficiente raccogliere periodicamente una dichiarazione del cliente o una visura camerale o altri documenti con contenuti equivalenti dai quali emerga che il quadro informativo a questi riferito non ha subito variazioni.
+
+Gli obblighi semplificati di adeguata verifica della clientela non si applicano qualora vi sia sospetto di riciclaggio o di finanziamento del terrorismo.
+
+2.5. Adeguata verifica rafforzata
+
+Il professionista adotta misure di adeguata verifica rafforzata, all’esito della valutazione di un elevato rischio di riciclaggio o di finanziamento del terrorismo, tenuto conto dei fattori di rischio relativi al cliente, a prodotti, servizi, operazioni o canali di distribuzione, nonché alle aree geografiche di riferimento, come individuati nell’elenco di cui all’art. 24 del d.lgs. 231/2007.
+
+Ai fini della corretta esecuzione degli obblighi di adeguata verifica rafforzata, il comportamento del professionista deve attenersi ad uno o più dei seguenti suggerimenti:
+
+\- prestare particolare attenzione, attraverso opportuni riscontri documentali, all’identificazione dei titolari effettivi, all’eventuale uso di identità false, di società di comodo/fittizie, all’interposizione di soggetti terzi (anche se membri della famiglia), ai clienti occasionali; - adottare misure supplementari per la verifica o la certificazione dei documenti forniti o richiedere una certificazione di conferma rilasciata da un ente creditizio o finanziario, ovvero assicurarsi che il primo pagamento relativo all’operazione sia effettuato tramite un conto intestato al cliente presso un ente creditizio che non abbia sede in Paesi terzi ad alto rischio, per come definiti dall’art. 24, co. 2, lett. c) del decreto antiriciclaggio; - verificare l’eventuale presenza del cliente o di soggetti ad esso collegati, purché resi noti al professionista e coinvolti nelle attività oggetto della prestazione professionale, nelle liste delle persone e degli enti associati ad attività di finanziamento del terrorismo o destinatari di misure di congelamento; - verificare la sottoposizione del cliente o di soggetti ad esso collegati, purché resi noti al professionista e coinvolti nelle attività oggetto della prestazione professionale, ad indagini o processi penali per circostanze attinenti al riciclaggio e/o al finanziamento del terrorismo, ovvero la riconducibilità degli stessi ad ambienti del radicalismo o estremismo; - tenuto conto dell’esigenza di basarsi su informazioni aggiornate ai sensi dell’art. 17, co. 3, del
+
+d.lgs. 231/2007, consultare fonti aperte, quali ad esempio:
+
+\- siti Internet ufficiali dei Paesi di Provenienza; - database di natura commerciale; - fonti attendibili e indipendenti ad accesso pubblico o tramite credenziali di autenticazione (Camere di Commercio/Registro delle Imprese, servizio di Telemaco per le visure al registro imprese, servizi Cerved, società di informazioni su aziende italiane/estere che forniscono report specifici e informazioni su proprietà ed eventuali legami societari). Al riguardo e con specifico riferimento agli strumenti di prevenzione del finanziamento del terrorismo, si rammenta che le “liste” di tutti i soggetti ed entità designati a livello UE sono accessibili sul sito dell’UE al seguente link: https://webgate.ec.europa.eu/europeaid/fsd/fsf, previa registrazione.
+
+19
+
+Inoltre, per quanto riguarda i soggetti e le entità designate, il sito web della UIF fornisce indicazioni a riguardo, prontamente consultabili all’indirizzo http://uif.bancaditalia.it/adempimenti-operatori/contrasto/ che rimanda al sito europeo, oltre che a quello delle Nazioni Unite. Per quanto riguarda le designazioni nazionali di cui all’art. 4-bis del d.lgs. 109/2007, il decreto di congelamento, eventualmente adottato dal Ministro dell’economia e delle finanze, è pubblicato su apposita sezione del sito web del Ministero dell’economia e delle finanze.
+
+Sotto il profilo operativo, ferma restando la maggiore frequenza del controllo costante, l’adeguata verifica in modalità rafforzata può essere effettuata mediante l’adozione, da parte del professionista, di una o più delle seguenti ulteriori misure, anche in tempi diversi:
+
+\- acquisizione di almeno due documenti di riconoscimento del cliente in corso di validità; - verifica del rilascio, da parte di ente certificatore, di un dispositivo di firma digitale del cliente; - richiesta di un documento che attesti l’esistenza in capo al cliente di un rapporto bancario e/o assicurativo presso un intermediario destinatario degli obblighi di cui al d.lgs. 231/2007, ovvero sottoposto ad obblighi antiriciclaggio equivalenti; - consultazione di banche dati liberamente accessibili; - verifica della provenienza dei fondi utilizzati per il compimento dell’operazione.
+
+2.6. Persone politicamente esposte
+
+Ai fini della individuazione delle Persone Politicamente Esposte il professionista fa leva sulla collaborazione dello stesso cliente nel fornire dati utili per chiarire la propria posizione e disegnare la rete di relazioni familiari e d’affari (nel rispetto della disciplina in materia di protezione dei dati personali).
+
+In relazione agli obblighi di adeguata verifica rafforzata, in presenza di titolare effettivo qualificabile come Persona Politicamente Esposta - PPE, ai sensi dell’art. 1, co. 1, lett. dd), punto 3.1 del d.lgs. 231/2007 il concetto di titolarità effettiva congiunta si riferisce evidentemente non a tutti i casi in cui una PPE sia socio in affari con uno o più soggetti non PPE, ma solo ai casi in cui lo status di persona politicamente esposta di questi ultimi ricorra per effetto, appunto, della titolarità congiunta, da determinarsi secondo le indicazioni fornite dal d.lgs. 231/2007, di enti giuridici o di altro stretto rapporto di affari con taluno dei soggetti titolari delle cariche pubbliche indicate dal legislatore.
+
+Ai fini dell’effettuazione dell’adeguata verifica rafforzata, ai sensi dell’art. 24, co. 5, lett. c) del d.lgs. 231/2007 la qualifica di persona politicamente esposta rileva esclusivamente quando il soggetto agisce in qualità di privato e non quando opera come organo dell’ente pubblico, ossia agisce nell’esercizio dei poteri e delle facoltà scaturenti dall’atto con cui è designato all’espletamento di un ufficio o allo svolgimento di funzioni dell’ente medesimo. In tal caso il professionista adotta misure di adeguata verifica commisurate al rischio in concreto rilevato, tenuto anche conto degli indici di basso rischio di cui all’art. 23, co. 2, lett. a), n. 2 del decreto antiriciclaggio (Pubbliche Amministrazioni).
+
+2.7. Titolare effettivo
+
+Ai fini dell’identificazione del titolare effettivo il professionista chiede al cliente le informazioni e i dati necessari (nome e cognome, luogo e data di nascita, residenza, codice fiscale) tramite qualsiasi mezzo ritenuto idoneo (mail, pec, dichiarazione del cliente). Nel trust e negli istituti giuridici ad esso affini le informazioni in merito al o ai titolari effettivi sono comunicate al professionista “a cura del fiduciario o dei
+
+20
+
+fiduciari, di altra persona per conto del fiduciario o della persona che esercita diritti, poteri e facoltà equivalenti in istituti giuridici affini” (art. 21, co. 3, d.lgs. 231/2007). Il cliente è tenuto a fornire i dati e le notizie sul titolare effettivo richiedendole al titolare o ai titolari stesso/i (art. 22, co. 1, d.lgs. 231/2007). Il professionista non è tenuto ad acquisire fotocopia del documento identificativo del titolare effettivo, fermo restando l’obbligo di cui all’art. 19, co. 1, lett. b) che testualmente prevede “la verifica dell'identità del cliente, del titolare effettivo e dell'esecutore richiede il riscontro della veridicità dei dati identificativi contenuti nei documenti e delle informazioni acquisiti all'atto dell'identificazione, solo laddove, in relazione ad essi, sussistano dubbi, incertezze o incongruenze”. Resta fermo quanto stabilito dall’art. 21, co. 7, del d.lgs. 231/2007 e, conseguentemente, nelle ipotesi in cui sia possibile identificare il titolare effettivo tramite la consultazione di pubblici registri, quest’ultima non può ritenersi una modalità sufficiente ai fini del corretto assolvimento dell’obbligo, in quanto si tratta di uno strumento previsto a supporto e non in sostituzione degli adempimenti prescritti in occasione dell’adeguata verifica. La predetta consultazione, pertanto, non esonera i soggetti obbligati dal valutare il rischio di riciclaggio e finanziamento del terrorismo cui sono esposti nell’esercizio della loro attività e dall’adottare misure adeguate al rischio medesimo.
+
+In caso di consultazione del Registro dei Titolari effettivi, il professionista acquisisce e conserva ai sensi dell’art. 21, co. 7-bis, del d.lgs. 231/2007 la prova dell’iscrizione ovvero conserva un estratto del registro idoneo a documentare tale iscrizione.
+
+Resta inoltre ferma la necessità di segnalare al Registro di cui all’art. 21 del d.lgs. 231/2007 eventuali incongruenze rilevate tra le informazioni relative alla titolarità effettiva acquisite nello svolgimento delle attività finalizzate all’adeguata verifica della clientela.
+
+Ad ogni modo, dall’obbligo giuridico di comunicazione posto a carico del cliente dall’art. 22 del d.lgs. 231/2007 discende una valenza generale del principio della affidabilità.
+
+2.8. Esecuzione dell’obbligo di adeguata verifica mediante ricorso a terzi
+
+Gli obblighi di adeguata verifica della clientela di cui all’art. 18, co. 1, lettere a), b) e c) del d.lgs. 231/2007 possono essere assolti mediante il ricorso a terzi, ferma la responsabilità dei soggetti obbligati. A tal fine i professionisti possono richiedere il rilascio dell’attestazione di adempimento dell’adeguata verifica ai soggetti terzi elencati dall’art. 26, co. 2 del d.lgs. 231/2007, mentre possono rilasciare tale attestazione solo ad altri professionisti.
+
+Rilascio dell’attestazione ad altro professionista Il professionista che riceve la richiesta di attestazione da altro professionista, verificato l’assolvimento dell’obbligo di adeguata verifica nei confronti del soggetto/i per il quale/i è richiesta l’attestazione, sottoscrive l’attestazione e la invia senza ritardo al richiedente, allegando copia della documentazione raccolta ai fini dell’assolvimento dell’obbligo. Il ricorso a terzi è possibile in relazione alla natura e alla tipologia dell’operazione come, a titolo esemplificativo e non esaustivo, nell’ipotesi di:
+
+a) operazioni caratterizzate dalla presenza di un solo cliente assistito da più professionisti; b) operazioni caratterizzate dalla presenza di più clienti assistiti da più professionisti;
+
+21
+
+c) operazioni affidate da clienti non presenti fisicamente e/o legalmente nel territorio dove ha sede lo studio del professionista, mentre è noto (anche per la dichiarazione del cliente) il nominativo di altro professionista che ha già assolto l’obbligo di adeguata verifica.
+
+L’attestazione in ordine all’assolvimento degli adempimenti deve provenire esclusivamente dal terzo che vi abbia provveduto direttamente rispetto ad un medesimo cliente. Al fine di rispettare i tempi e le modalità richiamate dalla norma è consentito l’uso di strumenti veloci di trasmissione quali, ad esempio, la posta elettronica. All’attestazione dovrà essere allegata copia della documentazione acquisita dai terzi, nonché le informazioni richieste e ricevute in sede di assolvimento dell’obbligo di adeguata verifica del cliente:
+
+1\. identificazione del cliente/esecutore e verifica della sua identità; 2. identificazione del titolare effettivo e verifica della sua identità; 3. acquisizione e valutazione di informazioni sullo scopo e sulla natura della prestazione professionale.
+
+Qualora disponibili, all’attestazione vanno allegati i dati ottenuti mediante i mezzi di identificazione elettronica di cui al regolamento UE n. 910/2014 o attraverso procedure di identificazione elettronica sicure e regolamentate ovvero autorizzate o riconosciute dall’Agenzia per l’Italia digitale.
+
+22
+
+3\. Regola tecnica n. 3 - Conservazione dei dati e delle
+
+informazioni (artt. 31, 32 e 34 d.lgs. 231/2007)
+
+La conservazione ha come obiettivo quello di impedire la perdita o la distruzione dei documenti e di mantenere nel tempo le loro caratteristiche di integrità, leggibilità e reperibilità. La conservazione può essere cartacea, informatica o mista. Nell’ambito di tali possibilità di conservazione e nel rispetto dei principi di semplificazione, economicità ed efficienza, i professionisti possono continuare ad alimentare gli archivi cartacei e/o informatici già istituiti alla data di entrata in vigore delle disposizioni previste nel d.lgs. 90/2017, quali il registro cartaceo o l’archivio informatico, integrando secondo quanto previsto dalle nuove disposizioni i dati relativi al titolare effettivo e alle informazioni sullo scopo e la natura del rapporto ed elidendo i dati non più obbligatori. Qualunque sia il sistema di conservazione prescelto, occorrerà indicare in maniera esplicita i soggetti legittimati ad alimentare il sistema di conservazione e quelli che possono accedere ai dati e alle informazioni ivi conservati. Tale indicazione esplicita non si rende necessaria nel caso di professionista individuale che non si avvalga di personale di studio. L’obbligo di conservazione ha per oggetto:
+
+1\) la copia dei documenti acquisiti in occasione dell’adeguata verifica della clientela, sia per le prestazioni
+
+professionali che per le operazioni; 2) l’originale, ovvero copia avente efficacia probatoria ai sensi della normativa vigente, delle scritture e
+
+registrazioni inerenti esclusivamente alle operazioni.
+
+La conservazione, indipendentemente dal supporto scelto, deve consentire quanto meno di ricostruire univocamente:
+
+\- nel caso di prestazioni professionali:
+
+a) la data del conferimento dell’incarico; b) i dati identificativi, ivi compresi, ove disponibili, i dati ottenuti mediante i mezzi di identificazione elettronica e i pertinenti servizi fiduciari di cui al regolamento UE n. 910/2014 o attraverso procedure di identificazione elettronica sicure e regolamentate ovvero autorizzate o riconosciute dall’Agenzia per l’Italia digitale, del cliente, del titolare effettivo e dell’esecutore, nonché le informazioni sullo scopo e la natura del rapporto o della prestazione; c) la consultazione, ove effettuata, dei registri di cui all’art. 21 del d.lgs. 231/2007, con le modalità
+
+ivi previste; - nel caso di operazioni:
+
+d) la data, l’importo e la causale dell’operazione; e) i mezzi di pagamento utilizzati.
+
+Con riferimento alla lettera e), il professionista è tenuto alla conservazione di copia dei mezzi di pagamento utilizzati nel caso in cui la movimentazione di mezzi di pagamento costituisca l’oggetto o la modalità di esecuzione della prestazione professionale in concreto resa in favore del cliente. Il sistema di conservazione prescelto deve garantire l’accesso ai documenti, alle informazioni e ai dati cartacei per il periodo prescritto dalla norma.
+
+23
+
+Fermi restando i contenuti dell’obbligo di conservazione, nel declinare l’adempimento secondo i principi generali previsti dall’art. 2 del d.lgs. 231/2007, il professionista adotterà in autonomia misure proporzionate al rischio in relazione al proprio grado di complessità organizzativa.
+
+3.1. Conservazione cartacea
+
+L’istituzione di un sistema atto alla conservazione cartacea dei documenti deve soddisfare gli obiettivi previsti dalla legge, impedendo la perdita o la distruzione dei documenti e mantenendo nel tempo le loro caratteristiche di integrità, leggibilità e reperibilità. Al fine di soddisfare il requisito della storicità, la documentazione contenuta nel fascicolo antiriciclaggio deve riportare indicazione della relativa data, ovvero essere riconducibile al periodo di acquisizione attraverso apposizione di data su un documento riepilogativo dei dati, delle informazioni e dei documenti acquisiti dal professionista o da un suo delegato ai fini dell’adempimento dell’obbligo di conservazione. Anche nell’ipotesi di conservazione in modalità cartacea, il fascicolo del cliente può rimandare ad alcuni documenti conservati in formato elettronico non modificabile all’interno del sistema informatico dello studio professionale (ad es. visure estratte da pubblici registri). Il fascicolo del cliente, tenuto in conformità agli articoli 31 e 32 del d.lgs. 231/2007, costituisce idonea modalità di conservazione dei dati e delle informazioni assunte ai fini del rispetto della normativa antiriciclaggio e di contrasto al finanziamento del terrorismo.
+
+3.2. Conservazione informatica
+
+Ai fini della conservazione informatica i professionisti possono avvalersi:
+
+• di un modello interno per cui il processo/sistema di conservazione è realizzato all’interno della struttura organizzativa del soggetto produttore dei documenti informatici;
+
+• di un modello esterno per cui il responsabile della conservazione può affidare il processo/sistema di conservazione, in modo totale o parziale, a soggetti terzi pubblici o privati che offrono idonee garanzie organizzative e tecnologiche. In entrambi i casi il sistema di conservazione informatico deve garantire l’accesso all’oggetto conservato, per il periodo prescritto dalla norma, indipendentemente dall’evolversi del contesto tecnologico. I documenti informatici, i dati e le informazioni possono essere conservati in cartelle intestate a ciascun cliente. Anche in caso di conservazione informatica, il sistema adottato può rimandare ad alcuni documenti conservati in formato cartaceo all’interno dello studio professionale. Si evidenzia che ai sensi del combinato disposto degli articoli 32, co. 3 e 31, co. 1, l’eventuale avvalimento di un “autonomo centro di servizi” esterno allo studio professionale non comporta alcuno spostamento della responsabilità in ordine al corretto adempimento degli obblighi di conservazione, che resta in capo al professionista obbligato e a cui deve essere sempre assicurato l’accesso diretto e immediato al sistema di conservazione di documenti, dati e informazioni utili, tra le altre, a “a consentire lo svolgimento delle analisi effettuate, nell’ambito delle rispettive attribuzioni, dalla UIF o da altra Autorità competente”.
+
+3.3. Conservazione negli studi associati e nelle società tra professionisti
+
+Nell’ambito degli studi associati e delle società tra professionisti potranno essere appositamente regolamentate, mediante idonee procedure interne, modalità organizzative che prevedano una funzione generale e accentrata di conservazione, per tutti i professionisti associati/soci, sia dei dati raccolti per l’identificazione del cliente,
+
+24
+
+dell’esecutore e del titolare effettivo, sia delle altre informazioni e/o documentazioni raccolte dal singolo professionista che riceve l’incarico.
+
+25
+
+[\#3](#3)   
+[\#3](#3)   
+[\#5](#5)   
+[\#8](#8)   
+[\#8](#8)   
+[\#8](#8)   
+[\#14](#14)   
+[\#15](#15)   
+[\#16](#16)   
+[\#17](#17)   
+[\#18](#18)   
+[\#19](#19)   
+[\#20](#20)   
+[\#20](#20)   
+[\#21](#21)   
+[\#23](#23)   
+[\#24](#24)   
+[\#24](#24)   
+[\#24](#24)   
+<https://webgate.ec.europa.eu/europeaid/fsd/fsf>   
+<http://uif.bancaditalia.it/adempimenti-operatori/contrasto/>   
