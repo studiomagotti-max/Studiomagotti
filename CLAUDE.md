@@ -289,6 +289,11 @@ Priorità di sviluppo dei modelli:
 4. Lettera di incarico e preventivo — **fatto**: `modelli/incarichi/MOD_lettera_incarico_preventivo.docx`
 5. Foglio monitoraggio segnali di allerta art. 3 CCII — **fatto**: `modelli/organo-di-controllo/MOD_monitoraggio_allerta_CCII.xlsx` (trimestrale + registro segnalazioni art. 25-octies/25-novies)
 
+Modelli aggiuntivi:
+- Lettera sui termini dell'incarico di revisione (ISA Italia 210) — **fatto**: `modelli/revisione/MOD_lettera_incarico_revisione_ISA210.docx`
+- Lettera di attestazione della direzione (ISA Italia 580) — **fatto**: `modelli/revisione/MOD_lettera_attestazione_ISA580.docx`
+- Autovalutazione RT1 — **bozza**: `output/2026-11-01_STUDIO_autovalutazione_RT1_BOZZA.xlsx` (rischio residuo 2,5 – poco significativo; 4 punteggi in ipotesi da confermare dal titolare)
+
 Interventi prioritari emersi dal questionario:
 - Scadenzario incarichi di controllo (Google Calendar) — **parziale**: creati eventi generici ricorrenti (verifiche trimestrali dal 09/11/2026; bilanci 31/12: 31/03, 15/04, 30/04, 30/05). [DC] eventi per singolo incarico: servono codici, ruolo, chiusura esercizio, ultima verifica
 - Strumento minimo di monitoraggio crisi — **fatto** (vedi punto 5)
