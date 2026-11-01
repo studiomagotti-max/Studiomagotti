@@ -285,11 +285,11 @@ Priorità di sviluppo dei modelli:
 2. Relazione al bilancio art. 2429 c.c. / art. 14 D.Lgs. 39/2010 — **fatto**: `modelli/organo-di-controllo/MOD_relazione_unitaria_bilancio.docx`
 3. Set carte di lavoro revisione (Excel, con presidi ISA Italia 230) — **fatto**: `modelli/revisione/MOD_carte_lavoro_revisione.xlsx`
 4. Lettera di incarico e preventivo — **fatto**: `modelli/incarichi/MOD_lettera_incarico_preventivo.docx`
-5. Foglio monitoraggio segnali di allerta art. 3 CCII
+5. Foglio monitoraggio segnali di allerta art. 3 CCII — **fatto**: `modelli/organo-di-controllo/MOD_monitoraggio_allerta_CCII.xlsx` (trimestrale + registro segnalazioni art. 25-octies/25-novies)
 
 Interventi prioritari emersi dal questionario:
 - Scadenzario incarichi di controllo (Google Calendar)
-- Strumento minimo di monitoraggio crisi
+- Strumento minimo di monitoraggio crisi — **fatto** (vedi punto 5)
 - Polizza RC da inserire nelle lettere di incarico
 - Manuale ISQM semplificato
 - Verifica conformità modelli AML alle Regole Tecniche CNDCEC
