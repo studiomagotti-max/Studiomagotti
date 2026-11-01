@@ -179,7 +179,7 @@ Vincoli inderogabili:
 
 | Voce | Dato |
 |---|---|
-| Adeguata verifica | Modulistica dello Studio in `modelli/antiriciclaggio/`: `MOD_AML_modulistica.docx` (M1-M8) e `MOD_AML_valutazione_rischio.xlsx` (autovalutazione, profilatura, controllo costante, formazione, contante). ⚠ Da confrontare con la modulistica CNDCEC del 18/03/2026 (Informativa n. 57/2026) e con le Regole Tecniche 2025 (delibera n. 9/2025) |
+| Adeguata verifica | Modulistica dello Studio in `modelli/antiriciclaggio/`: `MOD_AML_modulistica.docx` (M1-M8) e `MOD_AML_valutazione_rischio.xlsx` (autovalutazione, profilatura, controllo costante, formazione, contante). Metodo di calcolo allineato alle Linee Guida CNDCEC 22/05/2019 (Drive dello Studio: pesi 40/60 e 30/70, scala 1,5/2,5/3,5, misure, periodicità 36/36/24/6-12 mesi; testato sugli esempi delle Linee Guida). ⚠ Da confrontare con la modulistica CNDCEC del 18/03/2026 (Informativa n. 57/2026) e con le Regole Tecniche 2025 (delibera n. 9/2025) |
 | Autovalutazione rischio Studio (art. 15; RT n. 1) | [DC] ⚠ Termine di aggiornamento 27/05/2026 (1 anno dall'Analisi nazionale del 27/05/2025): se non eseguita, **inadempimento in corso**. Foglio "RT1 Autovalutazione" |
 | Conservazione fascicoli AML | Cartacea (artt. 31-32 D.Lgs. 231/2007) — raccomandata copia digitale con marca temporale |
 | Titolare del trattamento | Maurizio Magotti |
