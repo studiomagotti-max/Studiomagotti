@@ -281,7 +281,7 @@ Nomi file: `AAAA-MM-GG_codicecliente_tipodocumento.ext`.
 Modelli esistenti dello Studio da usare come riferimento di stile: nessuno. I modelli si redigono ex novo secondo la prassi CNDCEC (Norme di comportamento del collegio sindacale, ISA Italia, Regole Tecniche AML), con carta intestata e formula di firma della sez. 1.
 
 Priorità di sviluppo dei modelli:
-1. Verbale di verifica periodica (collegio / sindaco unico / revisore)
+1. Verbale di verifica periodica (collegio / sindaco unico / revisore) — **fatto**: `modelli/organo-di-controllo/MOD_verbale_verifica_periodica.docx`
 2. Relazione al bilancio art. 2429 c.c. / art. 14 D.Lgs. 39/2010
 3. Set carte di lavoro revisione (Excel, con presidi ISA Italia 230)
 4. Lettera di incarico e preventivo
