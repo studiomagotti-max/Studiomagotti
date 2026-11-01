@@ -278,7 +278,7 @@ output/            documenti generati da revisionare
 ```
 Nomi file: `AAAA-MM-GG_codicecliente_tipodocumento.ext`.
 
-Modelli esistenti dello Studio da usare come riferimento di stile: [DC].
+Modelli esistenti dello Studio da usare come riferimento di stile: nessuno. I modelli si redigono ex novo secondo la prassi CNDCEC (Norme di comportamento del collegio sindacale, ISA Italia, Regole Tecniche AML), con carta intestata e formula di firma della sez. 1.
 
 Priorità di sviluppo dei modelli:
 1. Verbale di verifica periodica (collegio / sindaco unico / revisore)
