@@ -128,7 +128,7 @@ Conseguenze operative:
 - **Strumento**: fogli Excel propri → ogni modello deve contenere preparatore/data, riesaminatore/data, log modifiche post-chiusura, chiusura fascicolo entro 60 gg dalla relazione (ISA Italia 230, par. 9, 14, 16, A21) e conservazione 10 anni.
 - **Materialità**: caso per caso, con motivazione obbligatoria in ogni fascicolo (ISA Italia 320, par. 14). Range di partenza: utile ante imposte 5-10%; ricavi 0,5-2%; totale attivo 1-2%; PN 1-5%; performance materiality 50-75%; errori trascurabili 3-5%.
 - **Selezione**: 100% voci > performance materiality (ISA Italia 500, par. A52-A56) **+ obbligo di presidio sulla popolazione residua** se > performance materiality (analitiche ISA Italia 520 o campione a giudizio) + calcolo della copertura (ISA Italia 330, par. 18).
-- **Controllo qualità** (ISQM Italia 1 e 2): [DC].
+- **Controllo qualità** (ISQM Italia 1 obbligatorio dal 01/01/2025; ISQM Italia 2 e ISA Italia 220 per periodi dal 01/01/2025 – determina RGS RR 184/2023): bozza di manuale in `modelli/revisione/MOD_manuale_SGQ_ISQM.docx` [DC: approvazione, riesaminatore esterno, criteri EQR].
 - **Scadenzario verifiche**: assente → **intervento prioritario** (art. 2404, cc. 1-2, c.c.; art. 2405, c. 2, c.c.; art. 2429, c. 3, c.c.).
 - **Indipendenza**: controllo obbligatorio quando un cliente di consulenza coincide con un incarico di controllo (art. 10 D.Lgs. 39/2010).
 - **Crisi**: nessuno strumento in uso → adottare almeno monitoraggio segnali art. 3, c. 4, CCII e DSCR a 12 mesi; skill `check-adeguati-assetti-ccii`.
@@ -291,5 +291,5 @@ Interventi prioritari emersi dal questionario:
 - Scadenzario incarichi di controllo (Google Calendar) — **parziale**: creati eventi generici ricorrenti (verifiche trimestrali dal 09/11/2026; bilanci 31/12: 31/03, 15/04, 30/04, 30/05). [DC] eventi per singolo incarico: servono codici, ruolo, chiusura esercizio, ultima verifica
 - Strumento minimo di monitoraggio crisi — **fatto** (vedi punto 5)
 - Polizza RC da inserire nelle lettere di incarico
-- Manuale ISQM semplificato
+- Manuale ISQM semplificato — **bozza fatta**: `modelli/revisione/MOD_manuale_SGQ_ISQM.docx` (da completare e approvare)
 - Verifica conformità modelli AML alle Regole Tecniche CNDCEC
