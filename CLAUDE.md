@@ -3,7 +3,7 @@
 Contesto operativo permanente per Claude in questo repository. Si applica a ogni richiesta.
 Ultimo aggiornamento: 2026-11-01 (questionario dati operativi, 33 domande).
 
-Legenda: **[DC]** = da completare · **[SOSPESO]** = decisione pendente del titolare.
+Legenda: **[DC]** = da completare.
 
 ---
 
