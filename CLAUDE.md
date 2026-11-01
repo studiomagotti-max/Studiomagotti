@@ -288,7 +288,7 @@ Priorità di sviluppo dei modelli:
 5. Foglio monitoraggio segnali di allerta art. 3 CCII — **fatto**: `modelli/organo-di-controllo/MOD_monitoraggio_allerta_CCII.xlsx` (trimestrale + registro segnalazioni art. 25-octies/25-novies)
 
 Interventi prioritari emersi dal questionario:
-- Scadenzario incarichi di controllo (Google Calendar)
+- Scadenzario incarichi di controllo (Google Calendar) — **parziale**: creati eventi generici ricorrenti (verifiche trimestrali dal 09/11/2026; bilanci 31/12: 31/03, 15/04, 30/04, 30/05). [DC] eventi per singolo incarico: servono codici, ruolo, chiusura esercizio, ultima verifica
 - Strumento minimo di monitoraggio crisi — **fatto** (vedi punto 5)
 - Polizza RC da inserire nelle lettere di incarico
 - Manuale ISQM semplificato
