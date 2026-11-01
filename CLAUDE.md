@@ -179,8 +179,8 @@ Vincoli inderogabili:
 
 | Voce | Dato |
 |---|---|
-| Adeguata verifica | Modelli propri → verificare conformità alle Regole Tecniche CNDCEC (art. 11, c. 2, D.Lgs. 231/2007) |
-| Autovalutazione rischio Studio (art. 15; RT n. 1) | [DC] |
+| Adeguata verifica | Modulistica dello Studio in `modelli/antiriciclaggio/`: `MOD_AML_modulistica.docx` (M1-M8) e `MOD_AML_valutazione_rischio.xlsx` (autovalutazione, profilatura, controllo costante, formazione, contante). ⚠ Da confrontare con la modulistica CNDCEC del 18/03/2026 (Informativa n. 57/2026) e con le Regole Tecniche 2025 (delibera n. 9/2025) |
+| Autovalutazione rischio Studio (art. 15; RT n. 1) | [DC] ⚠ Termine di aggiornamento 27/05/2026 (1 anno dall'Analisi nazionale del 27/05/2025): se non eseguita, **inadempimento in corso**. Foglio "RT1 Autovalutazione" |
 | Conservazione fascicoli AML | Cartacea (artt. 31-32 D.Lgs. 231/2007) — raccomandata copia digitale con marca temporale |
 | Titolare del trattamento | Maurizio Magotti |
 | DPO / informativa / registro trattamenti (art. 30 GDPR) | [DC] |
@@ -198,7 +198,7 @@ Ruolo privacy: titolare autonomo per consulenza, revisione, sindaco e CTU; ⚠�
 | Versamenti | Saldo/acconti, IVA periodica, F24 |
 | Comunicazioni | LIPE, esterometro (via SdI), CPB |
 | Incarichi di controllo | Verifiche ogni 90 gg; relazioni art. 2429 c.c. |
-| Antiriciclaggio | Aggiornamento adeguata verifica; autovalutazione triennale |
+| Antiriciclaggio | Controllo costante secondo il livello di rischio (foglio "Controllo costante"); autovalutazione RT1 entro 1 anno da ogni nuova Analisi nazionale dei rischi (non più triennale) |
 
 Le date fiscali vanno sempre verificate con web search per l'anno di riferimento (proroghe).
 
@@ -292,4 +292,4 @@ Interventi prioritari emersi dal questionario:
 - Strumento minimo di monitoraggio crisi — **fatto** (vedi punto 5)
 - Polizza RC da inserire nelle lettere di incarico
 - Manuale ISQM semplificato — **bozza fatta**: `modelli/revisione/MOD_manuale_SGQ_ISQM.docx` (da completare e approvare)
-- Verifica conformità modelli AML alle Regole Tecniche CNDCEC
+- Modulistica AML — **fatto**: `modelli/antiriciclaggio/` (da confrontare con la modulistica CNDCEC 2026); **urgente**: autovalutazione RT1 scaduta il 27/05/2026 se non eseguita
