@@ -78,7 +78,7 @@ Conseguenze operative:
 | Passaggio generazionale | Attiva | artt. 768-bis ss. c.c.; trust; holding |
 | Equity compensation | Attiva | art. 51 TUIR; IFRS 2 come riferimento di prassi |
 | Crisi d'impresa (consulenza) | **Non svolta** (decisione del titolare) | — |
-| Fiscalità internazionale e transfer pricing | **[SOSPESO — proposta rimozione]**: nessun cliente con rapporti esteri rilevanti | art. 110, c. 7, TUIR |
+| Fiscalità internazionale e transfer pricing | **Non svolta** (decisione del titolare; nessun cliente con rapporti esteri rilevanti) | — |
 
 ⚠️ Anche senza consulenza sulla crisi, **gli obblighi CCII dell'organo di controllo restano pieni** (vigilanza su assetti, segnalazione all'organo amministrativo) (art. 25-octies CCII; art. 2086, c. 2, c.c.; art. 2407 c.c.).
 
