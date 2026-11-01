@@ -283,7 +283,7 @@ Modelli esistenti dello Studio da usare come riferimento di stile: nessuno. I mo
 Priorità di sviluppo dei modelli:
 1. Verbale di verifica periodica (collegio / sindaco unico / revisore) — **fatto**: `modelli/organo-di-controllo/MOD_verbale_verifica_periodica.docx`
 2. Relazione al bilancio art. 2429 c.c. / art. 14 D.Lgs. 39/2010 — **fatto**: `modelli/organo-di-controllo/MOD_relazione_unitaria_bilancio.docx`
-3. Set carte di lavoro revisione (Excel, con presidi ISA Italia 230)
+3. Set carte di lavoro revisione (Excel, con presidi ISA Italia 230) — **fatto**: `modelli/revisione/MOD_carte_lavoro_revisione.xlsx`
 4. Lettera di incarico e preventivo
 5. Foglio monitoraggio segnali di allerta art. 3 CCII
 
