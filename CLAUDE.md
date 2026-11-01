@@ -292,6 +292,7 @@ Priorità di sviluppo dei modelli:
 Modelli aggiuntivi:
 - Lettera sui termini dell'incarico di revisione (ISA Italia 210) — **fatto**: `modelli/revisione/MOD_lettera_incarico_revisione_ISA210.docx`
 - Lettera di attestazione della direzione (ISA Italia 580) — **fatto**: `modelli/revisione/MOD_lettera_attestazione_ISA580.docx`
+- Conferme esterne clienti, fornitori, banche, legali + registro (ISA Italia 505, 501) — **fatto**: `modelli/revisione/MOD_conferme_esterne_ISA505.docx`
 - Autovalutazione RT1 — **bozza**: `output/2026-11-01_STUDIO_autovalutazione_RT1_BOZZA.xlsx` (rischio residuo 2,5 – poco significativo; 4 punteggi in ipotesi da confermare dal titolare)
 
 Interventi prioritari emersi dal questionario:
