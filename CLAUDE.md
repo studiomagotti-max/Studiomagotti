@@ -163,7 +163,7 @@ Conseguenze operative:
 | Voce | Dato |
 |---|---|
 | Criterio | Misto (parametri D.M. 140/2012, tariffa oraria, forfait) [DC: importi] |
-| Polizza RC professionale | [DC] — nelle lettere inserire il segnaposto `[estremi polizza RC: compagnia, n. polizza, massimale]` (art. 9, c. 4, D.L. 1/2012; art. 5 DPR 137/2012) |
+| Polizza RC professionale | [DC] — nelle lettere: tabella art. 8 con compagnia, n. polizza, massimale per sinistro e annuo, scadenza, copertura sindaco/revisore da compilare a mano |
 | Modalità di pagamento | Bonifico; SDD/RID (mandato SEPA + pre-notification) |
 | Acconto, periodicità, termine | [DC] — default: 30 gg ricevimento fattura, interessi moratori D.Lgs. 231/2002 (solo clienti imprese/professionisti) |
 
@@ -284,7 +284,7 @@ Priorità di sviluppo dei modelli:
 1. Verbale di verifica periodica (collegio / sindaco unico / revisore) — **fatto**: `modelli/organo-di-controllo/MOD_verbale_verifica_periodica.docx`
 2. Relazione al bilancio art. 2429 c.c. / art. 14 D.Lgs. 39/2010 — **fatto**: `modelli/organo-di-controllo/MOD_relazione_unitaria_bilancio.docx`
 3. Set carte di lavoro revisione (Excel, con presidi ISA Italia 230) — **fatto**: `modelli/revisione/MOD_carte_lavoro_revisione.xlsx`
-4. Lettera di incarico e preventivo
+4. Lettera di incarico e preventivo — **fatto**: `modelli/incarichi/MOD_lettera_incarico_preventivo.docx`
 5. Foglio monitoraggio segnali di allerta art. 3 CCII
 
 Interventi prioritari emersi dal questionario:
