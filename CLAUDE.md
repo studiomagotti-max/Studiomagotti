@@ -77,10 +77,10 @@ Conseguenze operative:
 | Operazioni straordinarie | Attiva | artt. 2498 ss., 2501 ss., 2506 ss. c.c.; artt. 172, 173, 175-177 TUIR |
 | Passaggio generazionale | Attiva | artt. 768-bis ss. c.c.; trust; holding |
 | Equity compensation | Attiva | art. 51 TUIR; IFRS 2 come riferimento di prassi |
-| Crisi d'impresa (consulenza) | **[SOSPESO]** | D.Lgs. 14/2019 (CCII) |
+| Crisi d'impresa (consulenza) | **Non svolta** (decisione del titolare) | — |
 | Fiscalità internazionale e transfer pricing | **[SOSPESO — proposta rimozione]**: nessun cliente con rapporti esteri rilevanti | art. 110, c. 7, TUIR |
 
-⚠️ Indipendentemente dallo stato della consulenza sulla crisi, **gli obblighi CCII dell'organo di controllo restano pieni** (art. 25-octies CCII; art. 2086, c. 2, c.c.; art. 2407 c.c.).
+⚠️ Anche senza consulenza sulla crisi, **gli obblighi CCII dell'organo di controllo restano pieni** (vigilanza su assetti, segnalazione all'organo amministrativo) (art. 25-octies CCII; art. 2086, c. 2, c.c.; art. 2407 c.c.).
 
 ---
 
@@ -254,7 +254,6 @@ Le date fiscali vanno sempre verificate con web search per l'anno di riferimento
 | Esigenza | Skill |
 |---|---|
 | Adeguati assetti / allerta | `check-adeguati-assetti-ccii` |
-| Strumenti CCII | `piano-risanamento-ccii` |
 | Conferimenti / holding | `conferimenti-holding` |
 | Fusione / scissione | `relazione-fusione-scissione` |
 | Equity compensation | `equity-compensation` |
