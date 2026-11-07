@@ -293,6 +293,7 @@ Modelli aggiuntivi:
 - Lettera sui termini dell'incarico di revisione (ISA Italia 210) — **fatto**: `modelli/revisione/MOD_lettera_incarico_revisione_ISA210.docx`
 - Lettera di attestazione della direzione (ISA Italia 580) — **fatto**: `modelli/revisione/MOD_lettera_attestazione_ISA580.docx`
 - Conferme esterne clienti, fornitori, banche, legali + registro (ISA Italia 505, 501) — **fatto**: `modelli/revisione/MOD_conferme_esterne_ISA505.docx`
+- Automazione invio lettere di incarico via e-mail (Excel VBA + Word + Outlook) — **fatto**: `modelli/incarichi/automazione/` (`MOD_invio_mandati.xlsx` + `modInvioMandati.bas` da importare e salvare come .xlsm; modelli `MOD_*_campi.docx` con campi `{{...}}` e condizioni `{{?FLAG}}`; sorgenti di rigenerazione in `_sorgenti/`). [DC] in Impostazioni: polizza RC, cassa, tariffe orarie, IBAN, SEPA Creditor ID
 - Autovalutazione RT1 — **eseguita il 02/11/2026** (confermata dal titolare): `output/2026-11-02_STUDIO_autovalutazione_RT1.xlsx` / `.pdf` da firmare
 
 Interventi prioritari emersi dal questionario:
