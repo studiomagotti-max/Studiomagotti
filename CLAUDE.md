@@ -294,6 +294,7 @@ Modelli aggiuntivi:
 - Lettera di attestazione della direzione (ISA Italia 580) — **fatto**: `modelli/revisione/MOD_lettera_attestazione_ISA580.docx`
 - Conferme esterne clienti, fornitori, banche, legali + registro (ISA Italia 505, 501) — **fatto**: `modelli/revisione/MOD_conferme_esterne_ISA505.docx`
 - Autovalutazione RT1 — **eseguita il 02/11/2026** (confermata dal titolare): `output/2026-11-02_STUDIO_autovalutazione_RT1.xlsx` / `.pdf` da firmare
+- Kit onboarding nuovo cliente v1.0 (08/11/2026) — **fatto, kit base da personalizzare**: `modelli/onboarding/ONB_kit_v1.0/` (guida ONB_00, 47 modelli ONB_A01-G08, registro ONB_90, scheda dati ONB_91, script di compilazione ONB_92, indice e fonti ONB_99); ZIP in `output/2026-11-08_STUDIO_kit_onboarding_v1.0.zip`. [DC] decisioni e verifiche elencate in ONB_00, sez. 10
 
 Interventi prioritari emersi dal questionario:
 - Scadenzario incarichi di controllo (Google Calendar) — **parziale**: creati eventi generici ricorrenti (verifiche trimestrali dal 09/11/2026; bilanci 31/12: 31/03, 15/04, 30/04, 30/05). [DC] eventi per singolo incarico: servono codici, ruolo, chiusura esercizio, ultima verifica
